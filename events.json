@@ -1,19 +1,19 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-09-03T15:36:29+08:00",
+    "last_updated": "2026-09-03T15:46:10+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
     "source_status": "官方渠道同步正常",
-    "records": 27,
-    "data_digest": "172074e92e14a1b3",
+    "records": 28,
+    "data_digest": "b3fa816cb7a40aff",
     "change_summary": {
       "date": "2026-09-03",
-      "added": 0,
+      "added": 1,
       "updated": 0,
       "removed": 0,
       "details": [
-        "今日暂未发现新增或改期信息"
+        "新增：“惠”就业课堂"
       ]
     },
     "notes": [
@@ -106,6 +106,23 @@
       "is_financial": true,
       "published_at": "2026-08-31T08:49:45+08:00",
       "updated_at": "2026-08-31T08:49:45+08:00"
+    },
+    {
+      "id": "uibe-2095415761660067842",
+      "title": "“惠”就业课堂",
+      "company": "“惠”就业课堂",
+      "start": "2026-09-11T15:00:00+08:00",
+      "end": "2026-09-11T16:30:00+08:00",
+      "location": "求真楼一层招聘大厅",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2095415761660067842",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-09-03T15:37:03+08:00",
+      "updated_at": "2026-09-03T15:37:03+08:00"
     },
     {
       "id": "uibe-2092543334814908417",
