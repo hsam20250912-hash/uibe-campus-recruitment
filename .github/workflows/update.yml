@@ -1,0 +1,74 @@
+name: 更新贸大宣讲会并部署 Pages
+
+on:
+  schedule:
+    # GitHub Actions 使用 UTC；此时间对应北京时间每天 00:00。
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "index.html"
+      - "events.json"
+      - "update.py"
+      - "requirements.txt"
+      - ".github/workflows/update.yml"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+
+      - name: 抓取最新宣讲会
+        run: python update.py
+
+      - name: 提交数据变化
+        run: |
+          if git diff --quiet -- events.json; then
+            echo "没有需要提交的数据变化"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add events.json
+            git commit -m "data: 每日更新贸大宣讲会"
+            git push
+          fi
+
+      - name: 配置 GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: 打包静态网页
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: update-and-build
+    steps:
+      - name: 部署 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
