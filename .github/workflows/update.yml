@@ -39,6 +39,9 @@ jobs:
       - name: 安装依赖
         run: pip install -r requirements.txt
 
+      - name: 同步主分支
+        run: git pull --ff-only origin main
+
       - name: 抓取最新宣讲会
         run: python update.py
 
