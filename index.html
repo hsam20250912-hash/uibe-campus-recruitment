@@ -1,0 +1,1056 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="对外经济贸易大学秋招宣讲会日历，优先同步学校官方就业渠道。">
+  <title>贸大秋招宣讲日历</title>
+  <style>
+    :root {
+      --navy-950: #071827;
+      --navy-900: #0a2238;
+      --navy-800: #103654;
+      --blue-600: #176b94;
+      --teal-500: #22a699;
+      --teal-100: #dff5f1;
+      --gold-500: #e5ad42;
+      --gold-100: #fff2d3;
+      --red-500: #cf5252;
+      --red-100: #fee9e7;
+      --ink-900: #122331;
+      --ink-600: #526573;
+      --ink-400: #82919c;
+      --paper: #ffffff;
+      --mist: #eef3f5;
+      --line: #dce5e9;
+      --shadow: 0 18px 50px rgba(10, 34, 56, 0.09);
+      --radius: 22px;
+    }
+
+    * { box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      margin: 0;
+      min-width: 320px;
+      color: var(--ink-900);
+      background:
+        radial-gradient(circle at 92% 2%, rgba(34, 166, 153, 0.13), transparent 28rem),
+        linear-gradient(180deg, #f8fbfc 0, #eef3f5 42rem, #f7f9fa 100%);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+        "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    button, input, select { font: inherit; }
+
+    a { color: inherit; }
+
+    .shell {
+      width: min(1180px, calc(100% - 40px));
+      margin: 0 auto;
+    }
+
+    .hero {
+      position: relative;
+      overflow: hidden;
+      color: #fff;
+      background:
+        linear-gradient(115deg, rgba(7, 24, 39, 0.98), rgba(16, 54, 84, 0.92)),
+        var(--navy-900);
+      border-bottom-left-radius: 40px;
+      border-bottom-right-radius: 40px;
+    }
+
+    .hero::before,
+    .hero::after {
+      position: absolute;
+      content: "";
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 999px;
+    }
+
+    .hero::before {
+      width: 520px;
+      height: 520px;
+      right: -170px;
+      top: -280px;
+      box-shadow: 0 0 0 78px rgba(255, 255, 255, 0.025);
+    }
+
+    .hero::after {
+      width: 190px;
+      height: 190px;
+      right: 23%;
+      bottom: -150px;
+      box-shadow: 0 0 0 46px rgba(34, 166, 153, 0.08);
+    }
+
+    .topbar {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      min-height: 76px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .brand {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      font-weight: 780;
+      letter-spacing: 0.02em;
+    }
+
+    .brand-mark {
+      display: grid;
+      place-items: center;
+      width: 36px;
+      height: 36px;
+      color: var(--navy-950);
+      background: var(--gold-500);
+      border-radius: 11px;
+      font-family: Georgia, serif;
+      font-size: 19px;
+    }
+
+    .official-link {
+      color: rgba(255, 255, 255, 0.74);
+      text-decoration: none;
+      font-size: 14px;
+    }
+
+    .official-link:hover { color: #fff; }
+
+    .hero-content {
+      position: relative;
+      z-index: 1;
+      display: grid;
+      grid-template-columns: 1.5fr 0.8fr;
+      gap: 64px;
+      align-items: end;
+      padding: 70px 0 88px;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      margin: 0 0 18px;
+      color: #9fe1d8;
+      font-size: 13px;
+      font-weight: 760;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    .eyebrow::before {
+      width: 26px;
+      height: 2px;
+      content: "";
+      background: var(--teal-500);
+    }
+
+    h1 {
+      max-width: 760px;
+      margin: 0;
+      font-family: Georgia, "Songti SC", "Noto Serif SC", serif;
+      font-size: clamp(40px, 6vw, 72px);
+      font-weight: 600;
+      line-height: 1.05;
+      letter-spacing: -0.04em;
+    }
+
+    .hero-copy {
+      max-width: 650px;
+      margin: 23px 0 0;
+      color: rgba(255, 255, 255, 0.7);
+      font-size: 17px;
+      line-height: 1.8;
+    }
+
+    .update-block {
+      padding: 22px 0 4px 30px;
+      border-left: 1px solid rgba(255, 255, 255, 0.18);
+    }
+
+    .update-label {
+      color: rgba(255, 255, 255, 0.52);
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+    }
+
+    .update-time {
+      display: block;
+      margin-top: 9px;
+      font-size: 20px;
+      font-weight: 720;
+    }
+
+    .source-state {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 13px;
+      color: rgba(255, 255, 255, 0.68);
+      font-size: 13px;
+    }
+
+    .source-state::before {
+      width: 8px;
+      height: 8px;
+      content: "";
+      background: #67d7ba;
+      border-radius: 50%;
+      box-shadow: 0 0 0 5px rgba(103, 215, 186, 0.12);
+    }
+
+    main {
+      position: relative;
+      z-index: 2;
+      padding-bottom: 70px;
+    }
+
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 14px;
+      margin-top: -38px;
+    }
+
+    .stat {
+      min-height: 126px;
+      padding: 22px 24px;
+      background: rgba(255, 255, 255, 0.95);
+      border: 1px solid rgba(220, 229, 233, 0.9);
+      border-radius: 18px;
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(12px);
+    }
+
+    .stat-label {
+      color: var(--ink-600);
+      font-size: 13px;
+    }
+
+    .stat-value {
+      display: block;
+      margin-top: 7px;
+      color: var(--navy-900);
+      font-family: Georgia, serif;
+      font-size: 37px;
+      line-height: 1;
+    }
+
+    .stat-hint {
+      display: block;
+      margin-top: 8px;
+      color: var(--ink-400);
+      font-size: 12px;
+    }
+
+    .summary {
+      display: grid;
+      grid-template-columns: 190px 1fr;
+      gap: 28px;
+      margin: 28px 0;
+      padding: 25px 28px;
+      background: linear-gradient(110deg, var(--gold-100), #fffaf0 70%);
+      border: 1px solid #f0d9a8;
+      border-radius: 18px;
+    }
+
+    .summary h2 {
+      margin: 0;
+      color: #79591b;
+      font-family: Georgia, "Songti SC", serif;
+      font-size: 21px;
+      font-weight: 650;
+    }
+
+    .summary-date {
+      display: block;
+      margin-top: 7px;
+      color: #9a7a3f;
+      font-size: 12px;
+    }
+
+    .summary-counts {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 10px;
+    }
+
+    .count-chip {
+      padding: 5px 9px;
+      color: #6b5224;
+      background: rgba(255, 255, 255, 0.62);
+      border: 1px solid rgba(178, 135, 52, 0.24);
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 700;
+    }
+
+    .summary-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px 22px;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      color: #725b31;
+      font-size: 13px;
+      line-height: 1.6;
+    }
+
+    .summary-list li::before {
+      margin-right: 8px;
+      color: var(--gold-500);
+      content: "◆";
+      font-size: 8px;
+    }
+
+    .panel {
+      overflow: hidden;
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: 0 14px 48px rgba(10, 34, 56, 0.06);
+    }
+
+    .panel-head {
+      display: flex;
+      gap: 22px;
+      align-items: end;
+      justify-content: space-between;
+      padding: 30px 30px 22px;
+    }
+
+    .panel-title h2 {
+      margin: 0;
+      color: var(--navy-900);
+      font-family: Georgia, "Songti SC", serif;
+      font-size: 28px;
+      font-weight: 650;
+    }
+
+    .panel-title p {
+      margin: 8px 0 0;
+      color: var(--ink-600);
+      font-size: 13px;
+    }
+
+    .legend {
+      display: flex;
+      gap: 14px;
+      color: var(--ink-600);
+      font-size: 12px;
+    }
+
+    .legend span {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+    }
+
+    .legend i {
+      width: 9px;
+      height: 9px;
+      background: var(--teal-500);
+      border-radius: 50%;
+    }
+
+    .legend .gold { background: var(--gold-500); }
+
+    .filters {
+      display: grid;
+      grid-template-columns: minmax(260px, 1fr) 190px 180px;
+      gap: 12px;
+      padding: 18px 30px;
+      background: #f7fafb;
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .control { position: relative; }
+
+    .control input,
+    .control select {
+      width: 100%;
+      height: 44px;
+      color: var(--ink-900);
+      background: #fff;
+      border: 1px solid #cfdbdf;
+      border-radius: 12px;
+      outline: none;
+      transition: 160ms ease;
+    }
+
+    .control input {
+      padding: 0 15px 0 43px;
+    }
+
+    .control select {
+      padding: 0 34px 0 13px;
+      cursor: pointer;
+    }
+
+    .control input:focus,
+    .control select:focus {
+      border-color: var(--teal-500);
+      box-shadow: 0 0 0 3px rgba(34, 166, 153, 0.12);
+    }
+
+    .search-icon {
+      position: absolute;
+      left: 15px;
+      top: 12px;
+      width: 18px;
+      height: 18px;
+      border: 2px solid #71838f;
+      border-radius: 50%;
+      pointer-events: none;
+    }
+
+    .search-icon::after {
+      position: absolute;
+      right: -5px;
+      bottom: -3px;
+      width: 7px;
+      height: 2px;
+      content: "";
+      background: #71838f;
+      transform: rotate(45deg);
+    }
+
+    .table-wrap { overflow-x: auto; }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      table-layout: fixed;
+    }
+
+    th {
+      padding: 15px 16px;
+      color: var(--ink-400);
+      background: #fff;
+      border-bottom: 1px solid var(--line);
+      font-size: 11px;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      text-align: left;
+      text-transform: uppercase;
+    }
+
+    td {
+      padding: 20px 16px;
+      border-bottom: 1px solid #e8eef0;
+      vertical-align: top;
+      font-size: 13px;
+    }
+
+    tbody tr {
+      position: relative;
+      transition: background 150ms ease;
+    }
+
+    tbody tr:hover { background: #f7fbfb; }
+
+    tbody tr.financial {
+      background: linear-gradient(90deg, rgba(255, 242, 211, 0.72), rgba(255, 255, 255, 0) 52%);
+      box-shadow: inset 3px 0 var(--gold-500);
+    }
+
+    tbody tr.financial:hover {
+      background: linear-gradient(90deg, rgba(255, 236, 190, 0.9), #fbfdfd 58%);
+    }
+
+    .date-cell strong {
+      display: block;
+      color: var(--navy-900);
+      font-family: Georgia, serif;
+      font-size: 17px;
+      white-space: nowrap;
+    }
+
+    .date-cell span {
+      display: block;
+      margin-top: 5px;
+      color: var(--ink-600);
+      white-space: nowrap;
+    }
+
+    .event-title {
+      display: inline;
+      color: var(--navy-900);
+      font-size: 14px;
+      font-weight: 720;
+      line-height: 1.55;
+    }
+
+    .company {
+      display: block;
+      margin-top: 7px;
+      color: var(--ink-600);
+      line-height: 1.5;
+    }
+
+    .finance-tag {
+      display: inline-flex;
+      margin-left: 7px;
+      padding: 2px 6px;
+      color: #876014;
+      background: var(--gold-100);
+      border: 1px solid #efd18e;
+      border-radius: 5px;
+      font-size: 10px;
+      font-weight: 800;
+      vertical-align: 2px;
+    }
+
+    .place {
+      display: block;
+      color: var(--ink-900);
+      line-height: 1.5;
+      word-break: break-word;
+    }
+
+    .format {
+      display: block;
+      margin-top: 6px;
+      color: var(--ink-400);
+      font-size: 11px;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 6px 9px;
+      border-radius: 999px;
+      font-size: 11px;
+      font-weight: 760;
+      white-space: nowrap;
+    }
+
+    .badge::before {
+      width: 6px;
+      height: 6px;
+      content: "";
+      background: currentColor;
+      border-radius: 50%;
+    }
+
+    .upcoming {
+      color: #0b7f73;
+      background: var(--teal-100);
+    }
+
+    .ongoing {
+      color: #176b94;
+      background: #e1f2fa;
+    }
+
+    .ended {
+      color: #71818b;
+      background: #edf1f3;
+    }
+
+    .pending,
+    .postponed {
+      color: #986c15;
+      background: var(--gold-100);
+    }
+
+    .cancelled {
+      color: var(--red-500);
+      background: var(--red-100);
+    }
+
+    .source {
+      display: block;
+      color: var(--ink-600);
+      font-size: 11px;
+      line-height: 1.45;
+    }
+
+    .source.verified { color: #167d72; }
+    .source.unverified { color: #9a701e; }
+
+    .detail-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      color: var(--blue-600);
+      font-weight: 720;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .detail-link:hover { text-decoration: underline; }
+
+    .detail-link::after { content: "↗"; }
+
+    .empty {
+      display: none;
+      padding: 58px 24px;
+      color: var(--ink-600);
+      text-align: center;
+    }
+
+    .empty strong {
+      display: block;
+      margin-bottom: 7px;
+      color: var(--navy-900);
+      font-size: 17px;
+    }
+
+    .table-foot {
+      display: flex;
+      justify-content: space-between;
+      padding: 18px 30px;
+      color: var(--ink-600);
+      background: #fbfcfc;
+      font-size: 12px;
+    }
+
+    .notes {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 24px;
+      align-items: start;
+      margin-top: 22px;
+      color: var(--ink-600);
+      font-size: 12px;
+      line-height: 1.75;
+    }
+
+    .notes p { margin: 0; }
+
+    .notes a {
+      color: var(--blue-600);
+      text-decoration: none;
+    }
+
+    .loader {
+      display: grid;
+      place-items: center;
+      min-height: 260px;
+      color: var(--ink-600);
+    }
+
+    .loader::before {
+      width: 28px;
+      height: 28px;
+      margin-right: 12px;
+      content: "";
+      border: 3px solid var(--line);
+      border-top-color: var(--teal-500);
+      border-radius: 50%;
+      animation: spin 800ms linear infinite;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    @media (max-width: 900px) {
+      .hero-content {
+        grid-template-columns: 1fr;
+        gap: 32px;
+      }
+
+      .update-block {
+        padding-left: 0;
+        border-left: 0;
+      }
+
+      .stats { grid-template-columns: repeat(2, 1fr); }
+      .summary { grid-template-columns: 1fr; gap: 14px; }
+      .filters { grid-template-columns: 1fr 1fr; }
+      .filters .control:first-child { grid-column: 1 / -1; }
+      .panel-head { align-items: start; }
+      .legend { display: none; }
+      table { min-width: 930px; }
+    }
+
+    @media (max-width: 560px) {
+      .shell { width: min(100% - 24px, 1180px); }
+      .hero { border-radius: 0 0 28px 28px; }
+      .topbar { min-height: 66px; }
+      .brand { font-size: 14px; }
+      .official-link { font-size: 0; }
+      .official-link::after { content: "官方渠道 ↗"; font-size: 12px; }
+      .hero-content { padding: 54px 0 74px; }
+      h1 { font-size: 42px; }
+      .hero-copy { font-size: 15px; }
+      .stats { gap: 9px; margin-top: -27px; }
+      .stat { min-height: 108px; padding: 18px; border-radius: 15px; }
+      .stat-value { font-size: 31px; }
+      .summary { padding: 21px; }
+      .panel { border-radius: 18px; }
+      .panel-head { padding: 24px 20px 18px; }
+      .filters { grid-template-columns: 1fr; padding: 15px 20px; }
+      .filters .control:first-child { grid-column: auto; }
+      .table-foot { padding: 16px 20px; }
+      .notes { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <div class="shell">
+      <nav class="topbar" aria-label="页面导航">
+        <div class="brand"><span class="brand-mark">U</span> UIBE · CAREER RADAR</div>
+        <a class="official-link" id="officialLink" href="https://career.uibe.edu.cn/" target="_blank" rel="noopener">访问贸大就业官方渠道 ↗</a>
+      </nav>
+      <div class="hero-content">
+        <div>
+          <p class="eyebrow">2027 届校园招聘</p>
+          <h1>贸大秋招<br>宣讲日历</h1>
+          <p class="hero-copy">聚合校内与线上宣讲安排，官方渠道优先。快速搜索企业、筛选活动状态，把重要场次留在视线里。</p>
+        </div>
+        <div class="update-block">
+          <span class="update-label">LAST SYNC · BEIJING TIME</span>
+          <time class="update-time" id="lastUpdated">正在读取…</time>
+          <div class="source-state" id="sourceState">正在连接官方渠道</div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="shell">
+    <section class="stats" aria-label="宣讲会概览">
+      <article class="stat">
+        <span class="stat-label">近期活动</span>
+        <strong class="stat-value" id="totalCount">—</strong>
+        <span class="stat-hint">完整收录在下方表格</span>
+      </article>
+      <article class="stat">
+        <span class="stat-label">即将开始</span>
+        <strong class="stat-value" id="upcomingCount">—</strong>
+        <span class="stat-hint">按活动时间动态计算</span>
+      </article>
+      <article class="stat">
+        <span class="stat-label">今日场次</span>
+        <strong class="stat-value" id="todayCount">—</strong>
+        <span class="stat-hint">北京时间</span>
+      </article>
+      <article class="stat">
+        <span class="stat-label">金融机构</span>
+        <strong class="stat-value" id="financeCount">—</strong>
+        <span class="stat-hint">已在表格中高亮</span>
+      </article>
+    </section>
+
+    <section class="summary" aria-labelledby="summaryTitle">
+      <div>
+        <h2 id="summaryTitle">当日变更摘要</h2>
+        <time class="summary-date" id="summaryDate">—</time>
+      </div>
+      <div>
+        <div class="summary-counts" id="summaryCounts"></div>
+        <ul class="summary-list" id="summaryList"><li>正在加载更新记录</li></ul>
+      </div>
+    </section>
+
+    <section class="panel" aria-labelledby="tableTitle">
+      <header class="panel-head">
+        <div class="panel-title">
+          <h2 id="tableTitle">全部宣讲安排</h2>
+          <p>搜索范围包括企业、活动名称和地点；默认按日期从近到远排列。</p>
+        </div>
+        <div class="legend" aria-label="标记说明">
+          <span><i></i>官方已核验</span>
+          <span><i class="gold"></i>金融机构高亮</span>
+        </div>
+      </header>
+
+      <div class="filters">
+        <label class="control">
+          <span class="search-icon" aria-hidden="true"></span>
+          <input id="searchInput" type="search" placeholder="搜索企业、宣讲会或地点…" aria-label="关键词搜索">
+        </label>
+        <label class="control">
+          <select id="statusFilter" aria-label="状态筛选">
+            <option value="all">全部状态</option>
+            <option value="upcoming">即将开始</option>
+            <option value="ongoing">进行中</option>
+            <option value="ended">已结束</option>
+            <option value="pending">待确认</option>
+            <option value="postponed">已延期</option>
+            <option value="cancelled">已取消</option>
+          </select>
+        </label>
+        <label class="control">
+          <select id="sortOrder" aria-label="日期排序">
+            <option value="asc">日期：从近到远</option>
+            <option value="desc">日期：从远到近</option>
+          </select>
+        </label>
+      </div>
+
+      <div id="loader" class="loader">正在读取官方宣讲安排</div>
+      <div id="tableArea" hidden>
+        <div class="table-wrap">
+          <table>
+            <colgroup>
+              <col style="width: 14%">
+              <col style="width: 30%">
+              <col style="width: 20%">
+              <col style="width: 13%">
+              <col style="width: 14%">
+              <col style="width: 9%">
+            </colgroup>
+            <thead>
+              <tr>
+                <th scope="col">日期 / 时间</th>
+                <th scope="col">活动 / 企业</th>
+                <th scope="col">地点 / 形式</th>
+                <th scope="col">状态</th>
+                <th scope="col">来源</th>
+                <th scope="col">详情</th>
+              </tr>
+            </thead>
+            <tbody id="eventRows"></tbody>
+          </table>
+        </div>
+        <div class="empty" id="emptyState">
+          <strong>没有找到匹配的宣讲会</strong>
+          换一个关键词或状态试试。
+        </div>
+        <footer class="table-foot">
+          <span id="resultCount">显示 0 条</span>
+          <span>时间均为北京时间</span>
+        </footer>
+      </div>
+    </section>
+
+    <footer class="notes">
+      <p id="notes">数据优先来自对外经济贸易大学招生就业处。活动信息可能临时调整，请在出发前打开来源页再次确认。</p>
+      <a id="footerSource" href="https://career.uibe.edu.cn/" target="_blank" rel="noopener">官方就业信息网 ↗</a>
+    </footer>
+  </main>
+
+  <script>
+    (function () {
+      "use strict";
+
+      var state = { events: [], meta: {}, query: "", filter: "all", sort: "asc" };
+      var elements = {
+        loader: document.getElementById("loader"),
+        tableArea: document.getElementById("tableArea"),
+        rows: document.getElementById("eventRows"),
+        empty: document.getElementById("emptyState"),
+        resultCount: document.getElementById("resultCount"),
+        search: document.getElementById("searchInput"),
+        status: document.getElementById("statusFilter"),
+        sort: document.getElementById("sortOrder")
+      };
+
+      function parseDate(value) {
+        var date = new Date(value);
+        return Number.isNaN(date.getTime()) ? null : date;
+      }
+
+      function pad(value) {
+        return String(value).padStart(2, "0");
+      }
+
+      function formatDate(date) {
+        if (!date) return "日期待定";
+        return date.getFullYear() + "." + pad(date.getMonth() + 1) + "." + pad(date.getDate());
+      }
+
+      function formatTime(start, end) {
+        if (!start) return "时间待定";
+        var first = pad(start.getHours()) + ":" + pad(start.getMinutes());
+        if (!end || start.toDateString() !== end.toDateString()) return first;
+        return first + "–" + pad(end.getHours()) + ":" + pad(end.getMinutes());
+      }
+
+      function formatUpdated(value) {
+        var date = parseDate(value);
+        if (!date) return "更新时间待同步";
+        return formatDate(date) + " " + pad(date.getHours()) + ":" + pad(date.getMinutes());
+      }
+
+      function localDay(date) {
+        return date.getFullYear() + "-" + pad(date.getMonth() + 1) + "-" + pad(date.getDate());
+      }
+
+      function getStatus(event, now) {
+        if (event.confirmation === "待确认") return "pending";
+        if (event.event_state === "cancelled") return "cancelled";
+        if (event.event_state === "postponed") return "postponed";
+        var start = parseDate(event.start);
+        var end = parseDate(event.end) || start;
+        if (!start) return "pending";
+        if (now < start) return "upcoming";
+        if (end && now <= end) return "ongoing";
+        return "ended";
+      }
+
+      function statusLabel(status) {
+        return {
+          upcoming: "即将开始",
+          ongoing: "进行中",
+          ended: "已结束",
+          pending: "待确认",
+          postponed: "已延期",
+          cancelled: "已取消"
+        }[status] || "待确认";
+      }
+
+      function escapeHtml(value) {
+        return String(value == null ? "" : value)
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/"/g, "&quot;")
+          .replace(/'/g, "&#039;");
+      }
+
+      function safeUrl(value) {
+        try {
+          var url = new URL(value, window.location.href);
+          return url.protocol === "https:" || url.protocol === "http:" ? url.href : "#";
+        } catch (error) {
+          return "#";
+        }
+      }
+
+      function eventRow(event, now) {
+        var start = parseDate(event.start);
+        var end = parseDate(event.end);
+        var status = getStatus(event, now);
+        var financial = Boolean(event.is_financial);
+        var sourceClass = event.confirmation === "待确认" ? "unverified" : "verified";
+        var financialTag = financial ? '<span class="finance-tag">金融机构</span>' : "";
+        return [
+          '<tr class="' + (financial ? "financial" : "") + '">',
+          '<td class="date-cell"><strong>' + escapeHtml(formatDate(start)) + '</strong><span>' + escapeHtml(formatTime(start, end)) + "</span></td>",
+          '<td><span class="event-title">' + escapeHtml(event.title || "未命名宣讲会") + "</span>" + financialTag +
+            '<span class="company">' + escapeHtml(event.company || "企业信息待补充") + "</span></td>",
+          '<td><span class="place">' + escapeHtml(event.location || "地点待公布") + '</span><span class="format">' + escapeHtml(event.format || "形式待定") + "</span></td>",
+          '<td><span class="badge ' + status + '">' + statusLabel(status) + "</span></td>",
+          '<td><span class="source ' + sourceClass + '">' + escapeHtml(event.confirmation || "待确认") + '</span><span class="source">' + escapeHtml(event.source_name || "") + "</span></td>",
+          '<td><a class="detail-link" href="' + escapeHtml(safeUrl(event.source_url)) + '" target="_blank" rel="noopener">查看</a></td>',
+          "</tr>"
+        ].join("");
+      }
+
+      function renderStats(now) {
+        var activeWindow = state.events.filter(function (event) {
+          return getStatus(event, now) !== "ended" && getStatus(event, now) !== "cancelled";
+        });
+        var today = localDay(now);
+        document.getElementById("totalCount").textContent = state.events.length;
+        document.getElementById("upcomingCount").textContent = activeWindow.filter(function (event) {
+          return getStatus(event, now) === "upcoming";
+        }).length;
+        document.getElementById("todayCount").textContent = state.events.filter(function (event) {
+          var start = parseDate(event.start);
+          return start && localDay(start) === today;
+        }).length;
+        document.getElementById("financeCount").textContent = state.events.filter(function (event) {
+          return event.is_financial;
+        }).length;
+      }
+
+      function renderSummary() {
+        var summary = state.meta.change_summary || {};
+        document.getElementById("summaryDate").textContent = summary.date || "—";
+        document.getElementById("summaryCounts").innerHTML = [
+          '<span class="count-chip">新增 ' + Number(summary.added || 0) + "</span>",
+          '<span class="count-chip">更新 ' + Number(summary.updated || 0) + "</span>",
+          '<span class="count-chip">移出 ' + Number(summary.removed || 0) + "</span>"
+        ].join("");
+        var details = Array.isArray(summary.details) && summary.details.length
+          ? summary.details
+          : ["今日暂未发现新增或改期信息"];
+        document.getElementById("summaryList").innerHTML = details.map(function (item) {
+          return "<li>" + escapeHtml(item) + "</li>";
+        }).join("");
+      }
+
+      function renderTable() {
+        var now = new Date();
+        var query = state.query.trim().toLocaleLowerCase("zh-CN");
+        var filtered = state.events.filter(function (event) {
+          var haystack = [event.title, event.company, event.location, event.format].join(" ").toLocaleLowerCase("zh-CN");
+          var matchesQuery = !query || haystack.indexOf(query) !== -1;
+          var status = getStatus(event, now);
+          var matchesStatus = state.filter === "all" || status === state.filter;
+          return matchesQuery && matchesStatus;
+        }).sort(function (a, b) {
+          var first = parseDate(a.start);
+          var second = parseDate(b.start);
+          var difference = (first ? first.getTime() : 0) - (second ? second.getTime() : 0);
+          return state.sort === "desc" ? -difference : difference;
+        });
+
+        elements.rows.innerHTML = filtered.map(function (event) {
+          return eventRow(event, now);
+        }).join("");
+        elements.empty.style.display = filtered.length ? "none" : "block";
+        document.querySelector(".table-wrap").style.display = filtered.length ? "block" : "none";
+        elements.resultCount.textContent = "显示 " + filtered.length + " / " + state.events.length + " 条";
+        renderStats(now);
+      }
+
+      function renderMeta() {
+        document.getElementById("lastUpdated").textContent = formatUpdated(state.meta.last_updated);
+        document.getElementById("sourceState").textContent = state.meta.source_status || "官方渠道同步正常";
+        var official = safeUrl(state.meta.official_source || "https://career.uibe.edu.cn/");
+        document.getElementById("officialLink").href = official;
+        document.getElementById("footerSource").href = official;
+        if (Array.isArray(state.meta.notes) && state.meta.notes.length) {
+          document.getElementById("notes").textContent = state.meta.notes.join(" ");
+        }
+        renderSummary();
+      }
+
+      function showError(message) {
+        elements.loader.className = "empty";
+        elements.loader.style.display = "block";
+        elements.loader.innerHTML = "<strong>数据暂时未能加载</strong>" + escapeHtml(message);
+      }
+
+      elements.search.addEventListener("input", function (event) {
+        state.query = event.target.value;
+        renderTable();
+      });
+      elements.status.addEventListener("change", function (event) {
+        state.filter = event.target.value;
+        renderTable();
+      });
+      elements.sort.addEventListener("change", function (event) {
+        state.sort = event.target.value;
+        renderTable();
+      });
+
+      fetch("events.json", { cache: "no-store" })
+        .then(function (response) {
+          if (!response.ok) throw new Error("HTTP " + response.status);
+          return response.json();
+        })
+        .then(function (data) {
+          state.events = Array.isArray(data.events) ? data.events : [];
+          state.meta = data.meta || {};
+          renderMeta();
+          elements.loader.style.display = "none";
+          elements.tableArea.hidden = false;
+          renderTable();
+        })
+        .catch(function () {
+          showError("请稍后刷新页面，或前往贸大就业官网查看最新安排。");
+        });
+    }());
+  </script>
+</body>
+</html>
