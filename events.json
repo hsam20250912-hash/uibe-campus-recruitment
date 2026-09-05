@@ -1,24 +1,19 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-09-05T00:15:19+08:00",
+    "last_updated": "2026-09-06T00:14:05+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
     "source_status": "官方渠道同步正常",
-    "records": 39,
-    "data_digest": "7434cb8dfe3b94e2",
+    "records": 38,
+    "data_digest": "0521d48f83c9d732",
     "change_summary": {
-      "date": "2026-09-05",
-      "added": 11,
-      "updated": 2,
-      "removed": 0,
+      "date": "2026-09-06",
+      "added": 0,
+      "updated": 0,
+      "removed": 1,
       "details": [
-        "新增：雀巢中国2027校园招聘直播",
-        "新增：中国工商银行黑龙江省分行2027年度校园招聘宣讲会",
-        "新增：“梦想靠岸”招商银行重庆分行2027 秋季校园招聘宣讲会",
-        "新增：中国东方资产管理股份有限公司山西省分公司2027年度校园招聘宣讲会",
-        "更新：招商银行总行、分行及子公司2027校园招聘宣讲会",
-        "更新：“惠”就业课堂——大厂求职全链路拆解与阿里人才观"
+        "移出近期列表：中国建筑股份有限公司沙特分公司2027“争先之星”秋季校园宣讲会"
       ]
     },
     "notes": [
@@ -400,23 +395,6 @@
       "is_financial": false,
       "published_at": "2026-09-02T14:58:54+08:00",
       "updated_at": "2026-09-02T14:58:54+08:00"
-    },
-    {
-      "id": "uibe-2095214058553786370",
-      "title": "中国建筑股份有限公司沙特分公司2027“争先之星”秋季校园宣讲会",
-      "company": "中建三局集团有限公司",
-      "start": "2026-09-18T18:30:00+08:00",
-      "end": "2026-09-18T20:30:00+08:00",
-      "location": "求真楼401A",
-      "format": "线下",
-      "source_name": "对外经济贸易大学招生就业处",
-      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2095214058553786370",
-      "source_type": "official",
-      "confirmation": "官方已核验",
-      "event_state": "scheduled",
-      "is_financial": false,
-      "published_at": "2026-09-03T11:12:23+08:00",
-      "updated_at": "2026-09-03T11:12:23+08:00"
     },
     {
       "id": "uibe-2087459153319624705",
