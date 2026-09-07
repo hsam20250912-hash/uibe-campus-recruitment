@@ -1,19 +1,22 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-09-07T00:14:52+08:00",
+    "last_updated": "2026-09-08T00:15:17+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
     "source_status": "官方渠道同步正常",
-    "records": 38,
-    "data_digest": "0521d48f83c9d732",
+    "records": 43,
+    "data_digest": "1407cb4faded53d7",
     "change_summary": {
-      "date": "2026-09-07",
-      "added": 0,
+      "date": "2026-09-08",
+      "added": 5,
       "updated": 0,
       "removed": 0,
       "details": [
-        "今日暂未发现新增或改期信息"
+        "新增：宜昌市人才对接交流活动",
+        "新增：年轻“九”就要不一“阳”，锁定9月9日周三晚19点，九阳股份202…",
+        "新增：“惠”就业课堂（第41期）——机关企事业单位求职规划讲座",
+        "新增：中国建筑股份有限公司沙特分公司2027“争先之星”秋季校园宣讲会"
       ]
     },
     "notes": [
@@ -38,6 +41,23 @@
       "is_financial": false,
       "published_at": "2026-09-02T11:25:22+08:00",
       "updated_at": "2026-09-02T11:25:22+08:00"
+    },
+    {
+      "id": "uibe-2096776674585657346",
+      "title": "宜昌市人才对接交流活动",
+      "company": "宜昌市委组织部",
+      "start": "2026-09-07T15:00:00+08:00",
+      "end": "2026-09-07T16:00:00+08:00",
+      "location": "求真楼306",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2096776674585657346",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-09-07T14:48:35+08:00",
+      "updated_at": "2026-09-07T14:48:35+08:00"
     },
     {
       "id": "uibe-2095538220434505730",
@@ -89,6 +109,23 @@
       "is_financial": true,
       "published_at": "2026-09-02T14:07:52+08:00",
       "updated_at": "2026-09-02T14:07:52+08:00"
+    },
+    {
+      "id": "uibe-2096479426215723010",
+      "title": "年轻“九”就要不一“阳”，锁定9月9日周三晚19点，九阳股份2027不一“阳”的空中宣讲会等你来看！",
+      "company": "九阳股份有限公司",
+      "start": "2026-09-09T19:00:00+08:00",
+      "end": "2026-09-09T20:00:00+08:00",
+      "location": "https://tv.51job.com/redirect.aspx?key=VDC67",
+      "format": "线上",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2096479426215723010",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-09-07T09:02:48+08:00",
+      "updated_at": "2026-09-07T09:02:48+08:00"
     },
     {
       "id": "uibe-2095780724123680770",
@@ -244,6 +281,23 @@
       "updated_at": "2026-09-02T14:16:13+08:00"
     },
     {
+      "id": "uibe-2096860847300198401",
+      "title": "“惠”就业课堂（第41期）——机关企事业单位求职规划讲座",
+      "company": "招生就业处",
+      "start": "2026-09-15T15:30:00+08:00",
+      "end": "2026-09-15T17:00:00+08:00",
+      "location": "求真楼一层招聘大厅",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2096860847300198401",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-09-07T16:10:35+08:00",
+      "updated_at": "2026-09-07T16:10:35+08:00"
+    },
+    {
       "id": "uibe-2089195640562188290",
       "title": "京东集团2027秋季校园宣讲会",
       "company": "北京京东世纪贸易有限公司",
@@ -380,6 +434,23 @@
       "updated_at": "2026-09-02T14:16:51+08:00"
     },
     {
+      "id": "uibe-2096141788279521281",
+      "title": "中国建筑股份有限公司沙特分公司2027“争先之星”秋季校园宣讲会",
+      "company": "中建三局集团有限公司",
+      "start": "2026-09-18T14:30:00+08:00",
+      "end": "2026-09-18T16:30:00+08:00",
+      "location": "求真楼401A",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2096141788279521281",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-09-07T09:04:14+08:00",
+      "updated_at": "2026-09-07T09:04:14+08:00"
+    },
+    {
       "id": "uibe-2094671635385729026",
       "title": "巴奴毛肚火锅有限公司：2027届校园招聘，寻找巴奴未来接班人！",
       "company": "巴奴毛肚火锅有限公司",
@@ -395,6 +466,23 @@
       "is_financial": false,
       "published_at": "2026-09-02T14:58:54+08:00",
       "updated_at": "2026-09-02T14:58:54+08:00"
+    },
+    {
+      "id": "uibe-2096861355767283714",
+      "title": "“惠”就业课堂（第42期）——如何用一份简历，敲开面试的大门",
+      "company": "招生就业处",
+      "start": "2026-09-18T15:30:00+08:00",
+      "end": "2026-09-18T17:00:00+08:00",
+      "location": "求真楼一层招聘大厅",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2096861355767283714",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-09-07T16:09:54+08:00",
+      "updated_at": "2026-09-07T16:09:54+08:00"
     },
     {
       "id": "uibe-2087459153319624705",
