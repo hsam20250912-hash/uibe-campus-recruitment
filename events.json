@@ -1,19 +1,22 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-09-09T00:16:46+08:00",
+    "last_updated": "2026-09-10T00:16:37+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
     "source_status": "官方渠道同步正常",
-    "records": 43,
-    "data_digest": "1407cb4faded53d7",
+    "records": 51,
+    "data_digest": "7dd2f2ed98abc2ec",
     "change_summary": {
-      "date": "2026-09-09",
-      "added": 0,
+      "date": "2026-09-10",
+      "added": 8,
       "updated": 0,
       "removed": 0,
       "details": [
-        "今日暂未发现新增或改期信息"
+        "新增：【中国500强招聘】山东海科集团2027届校园宣讲会",
+        "新增：中建三局国际工程公司（海外事业部）2027届校园招聘",
+        "新增：“梦想靠岸”招商银行广州分行2027校园招聘",
+        "新增：中国邮政储蓄银行广东省分行2027年度秋季校园招聘"
       ]
     },
     "notes": [
@@ -125,6 +128,23 @@
       "updated_at": "2026-09-07T09:02:48+08:00"
     },
     {
+      "id": "uibe-2096777180510994434",
+      "title": "【中国500强招聘】山东海科集团2027届校园宣讲会",
+      "company": "山东海科化工有限公司",
+      "start": "2026-09-10T09:30:00+08:00",
+      "end": "2026-09-10T11:30:00+08:00",
+      "location": "求真楼401A",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2096777180510994434",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-09-09T08:53:00+08:00",
+      "updated_at": "2026-09-09T08:53:00+08:00"
+    },
+    {
       "id": "uibe-2095780724123680770",
       "title": "中国工商银行黑龙江省分行2027年度校园招聘宣讲会",
       "company": "中国工商银行股份有限公司黑龙江省分行",
@@ -227,6 +247,40 @@
       "updated_at": "2026-09-04T08:27:27+08:00"
     },
     {
+      "id": "uibe-2096770263881400321",
+      "title": "中建三局国际工程公司（海外事业部）2027届校园招聘",
+      "company": "中建长江国际工程有限公司",
+      "start": "2026-09-11T18:30:00+08:00",
+      "end": "2026-09-11T20:30:00+08:00",
+      "location": "求真楼401A",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2096770263881400321",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-09-09T08:53:42+08:00",
+      "updated_at": "2026-09-09T08:53:42+08:00"
+    },
+    {
+      "id": "uibe-2097255313584472066",
+      "title": "“梦想靠岸”招商银行广州分行2027校园招聘",
+      "company": "招商银行股份有限公司广州分行",
+      "start": "2026-09-14T14:30:00+08:00",
+      "end": "2026-09-14T16:30:00+08:00",
+      "location": "求真楼一层招聘大厅",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2097255313584472066",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": true,
+      "published_at": "2026-09-09T08:55:38+08:00",
+      "updated_at": "2026-09-09T08:55:38+08:00"
+    },
+    {
       "id": "uibe-2092543334814908417",
       "title": "“梦想靠岸”招商银行深圳分行2027届秋季校园宣讲会",
       "company": "招商银行股份有限公司深圳分行",
@@ -259,6 +313,23 @@
       "is_financial": false,
       "published_at": "2026-09-04T13:34:56+08:00",
       "updated_at": "2026-09-04T13:34:56+08:00"
+    },
+    {
+      "id": "uibe-2097245515870683138",
+      "title": "中国邮政储蓄银行广东省分行2027年度秋季校园招聘",
+      "company": "中国邮政储蓄银行股份有限公司广东省分行",
+      "start": "2026-09-15T14:30:00+08:00",
+      "end": "2026-09-15T16:30:00+08:00",
+      "location": "求真楼401A",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2097245515870683138",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": true,
+      "published_at": "2026-09-09T08:56:10+08:00",
+      "updated_at": "2026-09-09T08:56:10+08:00"
     },
     {
       "id": "uibe-2094309395755220993",
@@ -378,6 +449,23 @@
       "is_financial": true,
       "published_at": "2026-08-31T09:00:46+08:00",
       "updated_at": "2026-08-31T09:00:46+08:00"
+    },
+    {
+      "id": "uibe-2096878493043310594",
+      "title": "深圳市快速直接工业科技有限公司2026年校园宣讲会",
+      "company": "深圳市快速直接工业科技有限公司",
+      "start": "2026-09-17T09:30:00+08:00",
+      "end": "2026-09-17T11:30:00+08:00",
+      "location": "求真楼401A",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2096878493043310594",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-09-09T08:57:46+08:00",
+      "updated_at": "2026-09-09T08:57:46+08:00"
     },
     {
       "id": "uibe-2094231073033617410",
@@ -533,6 +621,23 @@
       "updated_at": "2026-09-02T11:33:32+08:00"
     },
     {
+      "id": "uibe-2097535027901415425",
+      "title": "海天味业2027全球校园招聘",
+      "company": "佛山市海天调味食品股份有限公司",
+      "start": "2026-09-21T18:30:00+08:00",
+      "end": "2026-09-21T20:30:00+08:00",
+      "location": "求真楼319",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2097535027901415425",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-09-09T16:09:59+08:00",
+      "updated_at": "2026-09-09T16:09:59+08:00"
+    },
+    {
       "id": "uibe-2095103648265715714",
       "title": "花旗银行2027菁英直通车项目校园宣讲会（2028届学生实习转全职管培）",
       "company": "花旗银行（中国）有限公司",
@@ -650,6 +755,40 @@
       "is_financial": false,
       "published_at": "2026-09-02T14:59:25+08:00",
       "updated_at": "2026-09-02T14:59:25+08:00"
+    },
+    {
+      "id": "uibe-2097162095014494210",
+      "title": "中国平安2027全球校园招聘宣讲会",
+      "company": "中国平安保险（集团）股份有限公司",
+      "start": "2026-10-13T14:30:00+08:00",
+      "end": "2026-10-13T16:30:00+08:00",
+      "location": "求真楼319",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2097162095014494210",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": true,
+      "published_at": "2026-09-09T09:03:41+08:00",
+      "updated_at": "2026-09-09T09:03:41+08:00"
+    },
+    {
+      "id": "uibe-2097145996801785857",
+      "title": "“吉聚才 行新途” ——吉林银行2027届秋季校园招聘",
+      "company": "吉林银行股份有限公司",
+      "start": "2026-10-13T18:30:00+08:00",
+      "end": "2026-10-13T20:30:00+08:00",
+      "location": "求真楼401A",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2097145996801785857",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": true,
+      "published_at": "2026-09-09T09:17:56+08:00",
+      "updated_at": "2026-09-09T09:17:56+08:00"
     },
     {
       "id": "uibe-2095442397944135682",
