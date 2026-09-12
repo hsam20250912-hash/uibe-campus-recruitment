@@ -1,24 +1,19 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-09-12T00:15:57+08:00",
+    "last_updated": "2026-09-13T00:14:33+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
     "source_status": "官方渠道同步正常",
     "records": 58,
-    "data_digest": "0e4348449819650c",
+    "data_digest": "797129c9cba4a3ea",
     "change_summary": {
-      "date": "2026-09-12",
-      "added": 7,
-      "updated": 0,
-      "removed": 2,
+      "date": "2026-09-13",
+      "added": 0,
+      "updated": 1,
+      "removed": 0,
       "details": [
-        "新增：【在桃李，见未来】桃李未来2027届秋季校园宣讲会",
-        "新增：国家能源集团化工产业2027年 校园招聘宣讲会",
-        "新增：潍柴雷沃智慧农业科技股份有限公司海外营销公司2026年宣讲会",
-        "新增：顾家家居股份有限公司2027届校园招聘简章",
-        "移出近期列表：中国中信集团有限公司2027年校园招聘宣讲会",
-        "移出近期列表：测试"
+        "更新：森大集团 特福国际2027届校园招聘"
       ]
     },
     "notes": [
@@ -352,7 +347,7 @@
     },
     {
       "id": "uibe-2094309395755220993",
-      "title": "森大集团&特福国际2027届校园招聘",
+      "title": "森大集团 特福国际2027届校园招聘",
       "company": "广州市森大贸易有限公司",
       "start": "2026-09-15T14:30:00+08:00",
       "end": "2026-09-15T16:30:00+08:00",
@@ -364,8 +359,8 @@
       "confirmation": "官方已核验",
       "event_state": "scheduled",
       "is_financial": false,
-      "published_at": "2026-09-02T14:16:13+08:00",
-      "updated_at": "2026-09-02T14:16:13+08:00"
+      "published_at": "2026-09-12T20:37:06+08:00",
+      "updated_at": "2026-09-12T20:37:06+08:00"
     },
     {
       "id": "uibe-2096860847300198401",
