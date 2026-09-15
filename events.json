@@ -1,23 +1,22 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-09-15T00:15:26+08:00",
+    "last_updated": "2026-09-16T00:15:14+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
     "source_status": "官方渠道同步正常",
-    "records": 63,
-    "data_digest": "050d0a299c18d893",
+    "records": 67,
+    "data_digest": "9c9101ff8e060ed9",
     "change_summary": {
-      "date": "2026-09-15",
-      "added": 5,
+      "date": "2026-09-16",
+      "added": 4,
       "updated": 0,
-      "removed": 1,
+      "removed": 0,
       "details": [
-        "新增：中信集团及子公司2027年校园招聘联合宣讲会",
-        "新增：大国重器？上市公司 | 杰瑞集团 2027 届校园招聘空中宣讲会",
-        "新增：中国工商银行工银理财2027年度校园招聘宣讲会",
-        "新增：广州银行股份有限公司2027年校园宣讲会",
-        "移出近期列表：国贸股份2027届秋季全球校园招聘宣讲会"
+        "新增：赛轮集团(青岛) ·2027全球校园招聘正式启动",
+        "新增：“惠”就业课堂",
+        "新增：中国农业发展银行2027年度校园招聘宣讲会",
+        "新增：江西江铃进出口有限责任公司2027届秋季校招宣讲会"
       ]
     },
     "notes": [
@@ -503,6 +502,23 @@
       "updated_at": "2026-09-09T08:57:46+08:00"
     },
     {
+      "id": "uibe-2099678475878199297",
+      "title": "赛轮集团(青岛) ·2027全球校园招聘正式启动",
+      "company": "赛轮集团股份有限公司",
+      "start": "2026-09-17T09:30:00+08:00",
+      "end": "2026-09-17T11:30:00+08:00",
+      "location": "求真楼一层招聘大厅",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2099678475878199297",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-09-15T09:56:21+08:00",
+      "updated_at": "2026-09-15T09:56:21+08:00"
+    },
+    {
       "id": "uibe-2094231073033617410",
       "title": "东方财富证券2027届校园招聘",
       "company": "东方财富证券股份有限公司上海分公司",
@@ -792,6 +808,23 @@
       "updated_at": "2026-08-31T10:57:51+08:00"
     },
     {
+      "id": "uibe-2099701521649299458",
+      "title": "“惠”就业课堂",
+      "company": "招生就业处",
+      "start": "2026-09-23T09:30:00+08:00",
+      "end": "2026-09-23T11:30:00+08:00",
+      "location": "求真楼一层招聘大厅",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2099701521649299458",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-09-15T11:27:07+08:00",
+      "updated_at": "2026-09-15T11:27:07+08:00"
+    },
+    {
       "id": "uibe-2094677528634507266",
       "title": "永赢基金2027校园招聘宣讲会",
       "company": "永赢基金管理有限公司",
@@ -841,6 +874,23 @@
       "is_financial": false,
       "published_at": "2026-08-31T09:19:28+08:00",
       "updated_at": "2026-08-31T09:19:28+08:00"
+    },
+    {
+      "id": "uibe-2099761250119512065",
+      "title": "中国农业发展银行2027年度校园招聘宣讲会",
+      "company": "中国农业发展银行",
+      "start": "2026-10-08T18:30:00+08:00",
+      "end": "2026-10-08T20:30:00+08:00",
+      "location": "求真楼319",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2099761250119512065",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": true,
+      "published_at": "2026-09-15T17:06:13+08:00",
+      "updated_at": "2026-09-15T17:06:13+08:00"
     },
     {
       "id": "uibe-2094717768011137025",
@@ -1045,6 +1095,23 @@
       "is_financial": true,
       "published_at": "2026-09-02T14:18:17+08:00",
       "updated_at": "2026-09-02T14:18:17+08:00"
+    },
+    {
+      "id": "uibe-2099454302585155586",
+      "title": "江西江铃进出口有限责任公司2027届秋季校招宣讲会",
+      "company": "江西江铃进出口有限责任公司",
+      "start": "2026-10-19T18:30:00+08:00",
+      "end": "2026-10-19T20:30:00+08:00",
+      "location": "求真楼401A",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2099454302585155586",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-09-15T08:42:31+08:00",
+      "updated_at": "2026-09-15T08:42:31+08:00"
     },
     {
       "id": "uibe-2097558786553200641",
