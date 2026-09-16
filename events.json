@@ -1,22 +1,19 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-09-16T00:15:14+08:00",
+    "last_updated": "2026-09-17T00:15:43+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
     "source_status": "官方渠道同步正常",
-    "records": 67,
-    "data_digest": "9c9101ff8e060ed9",
+    "records": 68,
+    "data_digest": "24f488019781643c",
     "change_summary": {
-      "date": "2026-09-16",
-      "added": 4,
+      "date": "2026-09-17",
+      "added": 1,
       "updated": 0,
       "removed": 0,
       "details": [
-        "新增：赛轮集团(青岛) ·2027全球校园招聘正式启动",
-        "新增：“惠”就业课堂",
-        "新增：中国农业发展银行2027年度校园招聘宣讲会",
-        "新增：江西江铃进出口有限责任公司2027届秋季校招宣讲会"
+        "新增：中兴通讯2027届校园招聘"
       ]
     },
     "notes": [
@@ -891,6 +888,23 @@
       "is_financial": true,
       "published_at": "2026-09-15T17:06:13+08:00",
       "updated_at": "2026-09-15T17:06:13+08:00"
+    },
+    {
+      "id": "uibe-2100058565237600257",
+      "title": "中兴通讯2027届校园招聘",
+      "company": "中兴通讯股份有限公司",
+      "start": "2026-10-12T14:30:00+08:00",
+      "end": "2026-10-12T16:30:00+08:00",
+      "location": "求真楼319",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2100058565237600257",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-09-16T11:13:04+08:00",
+      "updated_at": "2026-09-16T11:13:04+08:00"
     },
     {
       "id": "uibe-2094717768011137025",
