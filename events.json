@@ -1,19 +1,22 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-09-17T00:15:43+08:00",
+    "last_updated": "2026-09-18T00:16:15+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
-    "source_status": "官方渠道同步正常",
-    "records": 68,
-    "data_digest": "24f488019781643c",
+    "source_status": "部分页面抓取异常，已保留可用数据",
+    "records": 71,
+    "data_digest": "3166840e8c782374",
     "change_summary": {
-      "date": "2026-09-17",
-      "added": 1,
+      "date": "2026-09-18",
+      "added": 3,
       "updated": 0,
       "removed": 0,
       "details": [
-        "新增：中兴通讯2027届校园招聘"
+        "新增：通用技术集团2027年校园招聘专场宣讲会",
+        "新增：中邮保险2027年度校园招聘宣讲会",
+        "新增：顺丰集团 2027届校园招聘“一切由你创造”",
+        "第 18 页抓取失败：ValueError"
       ]
     },
     "notes": [
@@ -720,6 +723,23 @@
       "updated_at": "2026-09-02T11:33:32+08:00"
     },
     {
+      "id": "uibe-2100517207082594306",
+      "title": "通用技术集团2027年校园招聘专场宣讲会",
+      "company": "中国通用技术(集团)控股有限责任公司",
+      "start": "2026-09-21T14:30:00+08:00",
+      "end": "2026-09-21T16:30:00+08:00",
+      "location": "求真楼319",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2100517207082594306",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-09-17T17:29:09+08:00",
+      "updated_at": "2026-09-17T17:29:09+08:00"
+    },
+    {
       "id": "uibe-2097535027901415425",
       "title": "海天味业2027全球校园招聘",
       "company": "佛山市海天调味食品股份有限公司",
@@ -820,6 +840,23 @@
       "is_financial": false,
       "published_at": "2026-09-15T11:27:07+08:00",
       "updated_at": "2026-09-15T11:27:07+08:00"
+    },
+    {
+      "id": "uibe-2092864176530718722",
+      "title": "中邮保险2027年度校园招聘宣讲会",
+      "company": "中邮人寿保险股份有限公司",
+      "start": "2026-09-23T14:30:00+08:00",
+      "end": "2026-09-23T16:30:00+08:00",
+      "location": "求真楼一层招聘大厅",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2092864176530718722",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": true,
+      "published_at": "2026-09-17T17:40:40+08:00",
+      "updated_at": "2026-09-17T17:40:40+08:00"
     },
     {
       "id": "uibe-2094677528634507266",
@@ -1109,6 +1146,23 @@
       "is_financial": true,
       "published_at": "2026-09-02T14:18:17+08:00",
       "updated_at": "2026-09-02T14:18:17+08:00"
+    },
+    {
+      "id": "uibe-2100402560635564033",
+      "title": "顺丰集团 2027届校园招聘“一切由你创造”",
+      "company": "深圳顺丰泰森控股（集团）有限公司",
+      "start": "2026-10-16T18:30:00+08:00",
+      "end": "2026-10-16T20:30:00+08:00",
+      "location": "求真楼319",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2100402560635564033",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-09-17T10:01:05+08:00",
+      "updated_at": "2026-09-17T10:01:05+08:00"
     },
     {
       "id": "uibe-2099454302585155586",
