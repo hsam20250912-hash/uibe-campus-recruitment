@@ -1,23 +1,19 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-09-19T00:13:58+08:00",
+    "last_updated": "2026-09-20T00:15:45+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
-    "source_status": "官方渠道同步正常",
+    "source_status": "官方渠道暂时无法访问，当前展示上次成功数据",
     "records": 74,
     "data_digest": "8b3acafc167d3f81",
     "change_summary": {
-      "date": "2026-09-19",
-      "added": 4,
+      "date": "2026-09-20",
+      "added": 0,
       "updated": 0,
-      "removed": 1,
+      "removed": 0,
       "details": [
-        "新增：中国银行博士后科研工作站2027年度博士后研究人员招收宣讲会",
-        "新增：中信建投证券 2027届秋季联合宣讲会",
-        "新增：河北华通线缆集团股份有限公司2026年校园宣讲会",
-        "新增：中粮集团2027届校园招聘宣讲会",
-        "移出近期列表：“惠”就业课堂"
+        "同步暂时失败：RuntimeError；已保留上次成功数据"
       ]
     },
     "notes": [
