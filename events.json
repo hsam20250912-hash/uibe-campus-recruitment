@@ -1,19 +1,22 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-09-20T00:15:45+08:00",
+    "last_updated": "2026-09-21T00:14:58+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
-    "source_status": "官方渠道暂时无法访问，当前展示上次成功数据",
-    "records": 74,
-    "data_digest": "8b3acafc167d3f81",
+    "source_status": "官方渠道同步正常",
+    "records": 76,
+    "data_digest": "19810a6c889879e0",
     "change_summary": {
-      "date": "2026-09-20",
-      "added": 0,
-      "updated": 0,
+      "date": "2026-09-21",
+      "added": 2,
+      "updated": 2,
       "removed": 0,
       "details": [
-        "同步暂时失败：RuntimeError；已保留上次成功数据"
+        "新增：昆仑金融租赁有限责任公司2027届校园招聘",
+        "新增：国家开发银行新疆分行2027年校园招聘宣讲会",
+        "更新：华为财经2027届应届生招聘宣讲交流会",
+        "更新：潍柴雷沃智慧农业科技股份有限公司海外营销公司2026年宣讲会"
       ]
     },
     "notes": [
@@ -806,7 +809,7 @@
     },
     {
       "id": "uibe-2095694970693402625",
-      "title": "华为财经2027届应届生招聘FAQ",
+      "title": "华为财经2027届应届生招聘宣讲交流会",
       "company": "华为技术有限公司",
       "start": "2026-09-22T18:30:00+08:00",
       "end": "2026-09-22T20:30:00+08:00",
@@ -818,8 +821,8 @@
       "confirmation": "官方已核验",
       "event_state": "scheduled",
       "is_financial": false,
-      "published_at": "2026-09-04T10:34:36+08:00",
-      "updated_at": "2026-09-04T10:34:36+08:00"
+      "published_at": "2026-09-20T18:46:46+08:00",
+      "updated_at": "2026-09-20T18:46:46+08:00"
     },
     {
       "id": "uibe-2092506297328009217",
@@ -856,6 +859,23 @@
       "updated_at": "2026-09-17T17:40:40+08:00"
     },
     {
+      "id": "uibe-2101600305991925762",
+      "title": "昆仑金融租赁有限责任公司2027届校园招聘",
+      "company": "昆仑金融租赁有限责任公司",
+      "start": "2026-09-23T18:30:00+08:00",
+      "end": "2026-09-23T20:30:00+08:00",
+      "location": "求真楼401A",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2101600305991925762",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": true,
+      "published_at": "2026-09-20T18:51:27+08:00",
+      "updated_at": "2026-09-20T18:51:27+08:00"
+    },
+    {
       "id": "uibe-2094677528634507266",
       "title": "永赢基金2027校园招聘宣讲会",
       "company": "永赢基金管理有限公司",
@@ -873,23 +893,6 @@
       "updated_at": "2026-09-01T16:12:55+08:00"
     },
     {
-      "id": "uibe-2097976360826880002",
-      "title": "潍柴雷沃智慧农业科技股份有限公司海外营销公司2026年宣讲会",
-      "company": "潍柴雷沃智慧农业科技股份有限公司",
-      "start": "2026-09-23T18:30:00+08:00",
-      "end": "2026-09-23T20:30:00+08:00",
-      "location": "求真楼401A",
-      "format": "线下",
-      "source_name": "对外经济贸易大学招生就业处",
-      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2097976360826880002",
-      "source_type": "official",
-      "confirmation": "官方已核验",
-      "event_state": "scheduled",
-      "is_financial": false,
-      "published_at": "2026-09-11T08:53:40+08:00",
-      "updated_at": "2026-09-11T08:53:40+08:00"
-    },
-    {
       "id": "uibe-2092539664907960321",
       "title": "雀巢中国2027校园招聘宣讲会",
       "company": "雀巢（中国）有限公司",
@@ -905,6 +908,40 @@
       "is_financial": false,
       "published_at": "2026-08-31T09:19:28+08:00",
       "updated_at": "2026-08-31T09:19:28+08:00"
+    },
+    {
+      "id": "uibe-2097976360826880002",
+      "title": "潍柴雷沃智慧农业科技股份有限公司海外营销公司2026年宣讲会",
+      "company": "潍柴雷沃智慧农业科技股份有限公司",
+      "start": "2026-09-24T09:30:00+08:00",
+      "end": "2026-09-24T11:30:00+08:00",
+      "location": "求真楼401A",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2097976360826880002",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-09-20T13:48:22+08:00",
+      "updated_at": "2026-09-20T13:48:22+08:00"
+    },
+    {
+      "id": "uibe-2101583259539357698",
+      "title": "国家开发银行新疆分行2027年校园招聘宣讲会",
+      "company": "国家开发银行新疆分行",
+      "start": "2026-09-24T14:30:00+08:00",
+      "end": "2026-09-24T16:30:00+08:00",
+      "location": "求真楼401A",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2101583259539357698",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": true,
+      "published_at": "2026-09-20T18:58:02+08:00",
+      "updated_at": "2026-09-20T18:58:02+08:00"
     },
     {
       "id": "uibe-2099761250119512065",
