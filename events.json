@@ -1,19 +1,19 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-09-22T00:15:10+08:00",
+    "last_updated": "2026-09-23T00:15:14+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
     "source_status": "官方渠道同步正常",
-    "records": 76,
-    "data_digest": "19810a6c889879e0",
+    "records": 77,
+    "data_digest": "2ce84c8b96df61c8",
     "change_summary": {
-      "date": "2026-09-22",
-      "added": 0,
+      "date": "2026-09-23",
+      "added": 1,
       "updated": 0,
       "removed": 0,
       "details": [
-        "今日暂未发现新增或改期信息"
+        "新增：中化能源股份有限公司2027年校园宣讲会"
       ]
     },
     "notes": [
@@ -1313,6 +1313,23 @@
       "is_financial": false,
       "published_at": "2026-09-14T15:48:36+08:00",
       "updated_at": "2026-09-14T15:48:36+08:00"
+    },
+    {
+      "id": "uibe-2101594239258345474",
+      "title": "中化能源股份有限公司2027年校园宣讲会",
+      "company": "中化石油有限公司",
+      "start": "2026-10-27T18:30:00+08:00",
+      "end": "2026-10-27T20:30:00+08:00",
+      "location": "求真楼319",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2101594239258345474",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-09-22T09:42:06+08:00",
+      "updated_at": "2026-09-22T09:42:06+08:00"
     }
   ]
 }
