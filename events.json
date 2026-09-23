@@ -1,19 +1,21 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-09-23T00:15:14+08:00",
+    "last_updated": "2026-09-24T00:16:13+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
     "source_status": "官方渠道同步正常",
     "records": 77,
-    "data_digest": "2ce84c8b96df61c8",
+    "data_digest": "cba05c3a8fc09374",
     "change_summary": {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "added": 1,
-      "updated": 0,
-      "removed": 0,
+      "updated": 1,
+      "removed": 1,
       "details": [
-        "新增：中化能源股份有限公司2027年校园宣讲会"
+        "新增：浙江省交通投资集团有限公司 2027届校园招聘",
+        "更新：哈尔滨银行（集团）2027校园招聘",
+        "移出近期列表：中国平安2027全球校园招聘宣讲会"
       ]
     },
     "notes": [
@@ -1009,23 +1011,6 @@
       "updated_at": "2026-09-02T14:59:25+08:00"
     },
     {
-      "id": "uibe-2097162095014494210",
-      "title": "中国平安2027全球校园招聘宣讲会",
-      "company": "中国平安保险（集团）股份有限公司",
-      "start": "2026-10-13T14:30:00+08:00",
-      "end": "2026-10-13T16:30:00+08:00",
-      "location": "求真楼319",
-      "format": "线下",
-      "source_name": "对外经济贸易大学招生就业处",
-      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2097162095014494210",
-      "source_type": "official",
-      "confirmation": "官方已核验",
-      "event_state": "scheduled",
-      "is_financial": true,
-      "published_at": "2026-09-09T09:03:41+08:00",
-      "updated_at": "2026-09-09T09:03:41+08:00"
-    },
-    {
       "id": "uibe-2097145996801785857",
       "title": "“吉聚才 行新途” ——吉林银行2027届秋季校园招聘",
       "company": "吉林银行股份有限公司",
@@ -1126,6 +1111,23 @@
       "is_financial": false,
       "published_at": "2026-09-04T17:40:06+08:00",
       "updated_at": "2026-09-04T17:40:06+08:00"
+    },
+    {
+      "id": "uibe-2102655691926867969",
+      "title": "浙江省交通投资集团有限公司 2027届校园招聘",
+      "company": "浙江交投科教集团有限公司",
+      "start": "2026-10-14T18:30:00+08:00",
+      "end": "2026-10-14T20:30:00+08:00",
+      "location": "求真楼一层招聘大厅",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2102655691926867969",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": true,
+      "published_at": "2026-09-23T15:11:46+08:00",
+      "updated_at": "2026-09-23T15:11:46+08:00"
     },
     {
       "id": "uibe-2100499229863636994",
@@ -1282,7 +1284,7 @@
     },
     {
       "id": "uibe-2097966068436877313",
-      "title": "拥抱毕业季 呼唤领跑者 哈尔滨银行（集团）2027校园招聘",
+      "title": "哈尔滨银行（集团）2027校园招聘",
       "company": "哈尔滨银行股份有限公司",
       "start": "2026-10-21T18:30:00+08:00",
       "end": "2026-10-21T20:30:00+08:00",
@@ -1294,8 +1296,8 @@
       "confirmation": "官方已核验",
       "event_state": "scheduled",
       "is_financial": true,
-      "published_at": "2026-09-11T10:45:46+08:00",
-      "updated_at": "2026-09-11T10:45:46+08:00"
+      "published_at": "2026-09-23T08:20:47+08:00",
+      "updated_at": "2026-09-23T08:20:47+08:00"
     },
     {
       "id": "uibe-2099398715218391042",
