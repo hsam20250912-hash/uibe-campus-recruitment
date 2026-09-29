@@ -1,19 +1,19 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-09-29T00:17:53+08:00",
+    "last_updated": "2026-09-30T00:17:27+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
     "source_status": "官方渠道同步正常",
-    "records": 80,
-    "data_digest": "2a89d7b02907778c",
+    "records": 81,
+    "data_digest": "265c9d7eeacf7893",
     "change_summary": {
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "added": 1,
       "updated": 0,
       "removed": 0,
       "details": [
-        "新增：北京康比特体育科技股份有限公司2027校园招聘宣讲会· 淬炼无止境…"
+        "新增：华润三九2027届空中宣讲会——AI短剧空宣重磅上线！"
       ]
     },
     "notes": [
@@ -973,6 +973,23 @@
       "is_financial": true,
       "published_at": "2026-09-18T15:15:46+08:00",
       "updated_at": "2026-09-18T15:15:46+08:00"
+    },
+    {
+      "id": "uibe-2104812598837972994",
+      "title": "华润三九2027届空中宣讲会——AI短剧空宣重磅上线！",
+      "company": "华润三九医药股份有限公司",
+      "start": "2026-10-09T19:00:00+08:00",
+      "end": "2026-10-09T19:30:00+08:00",
+      "location": "https://video.51job.com/watch/8518807",
+      "format": "线上",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2104812598837972994",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-09-29T14:03:39+08:00",
+      "updated_at": "2026-09-29T14:03:39+08:00"
     },
     {
       "id": "uibe-2100058565237600257",
