@@ -1,23 +1,25 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-10-10T04:41:56+08:00",
+    "last_updated": "2026-10-11T03:54:49+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
     "source_status": "官方渠道同步正常",
-    "records": 97,
-    "data_digest": "80966b7be559ad2a",
+    "records": 98,
+    "data_digest": "251a800cef4acd91",
     "change_summary": {
-      "date": "2026-10-10",
-      "added": 5,
-      "updated": 1,
-      "removed": 0,
+      "date": "2026-10-11",
+      "added": 2,
+      "updated": 4,
+      "removed": 1,
       "details": [
-        "新增：金融软件龙头企业|文华财经2027届校招",
-        "新增：中国联通天津市分公司2027对外经贸大学校园招聘宣讲会",
-        "新增：黑龙江选调生招录宣讲会",
-        "新增：讲座",
-        "更新：中国平安2027全球校园招聘"
+        "新增：CVTE视源股份2027届商务职能类招聘宣讲会",
+        "新增：中国贸促会2027年度国考校园宣讲会",
+        "更新：顾家家居股份有限公司2027届校园招聘宣讲会",
+        "更新：海关系统2027年度国考考录宣讲会",
+        "更新：讲座",
+        "更新：华为2027届“勇敢新世界”ICT 销售类招聘校园宣介会",
+        "移出近期列表：河北华通线缆集团股份有限公司2026年校园宣讲会"
       ]
     },
     "notes": [
@@ -1047,23 +1049,6 @@
       "updated_at": "2026-09-16T11:13:04+08:00"
     },
     {
-      "id": "uibe-2108033036464492545",
-      "title": "华为2027届“勇敢新世界”ICT 销售类招聘校园宣介会",
-      "company": "华为技术有限公司",
-      "start": "2026-10-12T18:30:00+08:00",
-      "end": "2026-10-12T20:30:00+08:00",
-      "location": "求真楼一层招聘大厅",
-      "format": "线下",
-      "source_name": "对外经济贸易大学招生就业处",
-      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2108033036464492545",
-      "source_type": "official",
-      "confirmation": "官方已核验",
-      "event_state": "scheduled",
-      "is_financial": false,
-      "published_at": "2026-10-08T14:51:37+08:00",
-      "updated_at": "2026-10-08T14:51:37+08:00"
-    },
-    {
       "id": "uibe-2094717768011137025",
       "title": "建发股份2027届秋招校园宣讲会",
       "company": "厦门建发股份有限公司",
@@ -1079,6 +1064,23 @@
       "is_financial": false,
       "published_at": "2026-09-02T14:59:25+08:00",
       "updated_at": "2026-09-02T14:59:25+08:00"
+    },
+    {
+      "id": "uibe-2108136914929389570",
+      "title": "CVTE视源股份2027届商务职能类招聘宣讲会",
+      "company": "广州视源电子科技股份有限公司",
+      "start": "2026-10-13T09:30:00+08:00",
+      "end": "2026-10-13T11:30:00+08:00",
+      "location": "求真楼401A",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2108136914929389570",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-10-10T08:35:18+08:00",
+      "updated_at": "2026-10-10T08:35:18+08:00"
     },
     {
       "id": "uibe-2105136509224030209",
@@ -1150,7 +1152,7 @@
     },
     {
       "id": "uibe-2097619588337418241",
-      "title": "顾家家居股份有限公司2027届校园招聘简章",
+      "title": "顾家家居股份有限公司2027届校园招聘宣讲会",
       "company": "顾家家居股份有限公司",
       "start": "2026-10-13T18:30:00+08:00",
       "end": "2026-10-13T20:30:00+08:00",
@@ -1162,8 +1164,8 @@
       "confirmation": "官方已核验",
       "event_state": "scheduled",
       "is_financial": false,
-      "published_at": "2026-09-11T08:59:06+08:00",
-      "updated_at": "2026-09-11T08:59:06+08:00"
+      "published_at": "2026-10-10T14:21:39+08:00",
+      "updated_at": "2026-10-10T14:21:39+08:00"
     },
     {
       "id": "uibe-2105169195934224385",
@@ -1319,23 +1321,6 @@
       "updated_at": "2026-10-09T16:05:20+08:00"
     },
     {
-      "id": "uibe-2100499229863636994",
-      "title": "河北华通线缆集团股份有限公司2026年校园宣讲会",
-      "company": "河北华通线缆集团股份有限公司",
-      "start": "2026-10-15T18:30:00+08:00",
-      "end": "2026-10-15T20:30:00+08:00",
-      "location": "求真楼401A",
-      "format": "线下",
-      "source_name": "对外经济贸易大学招生就业处",
-      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2100499229863636994",
-      "source_type": "official",
-      "confirmation": "官方已核验",
-      "event_state": "scheduled",
-      "is_financial": false,
-      "published_at": "2026-09-18T08:33:42+08:00",
-      "updated_at": "2026-09-18T08:33:42+08:00"
-    },
-    {
       "id": "uibe-2095472990266376193",
       "title": "珠海万达商管Ⅰ银翼投资2027届校园招聘",
       "company": "珠海万达商业管理集团股份有限公司",
@@ -1371,7 +1356,7 @@
     },
     {
       "id": "uibe-2108013861989847041",
-      "title": "深圳海关2027年度国考考录宣讲会",
+      "title": "海关系统2027年度国考考录宣讲会",
       "company": "中华人民共和国深圳海关",
       "start": "2026-10-16T09:30:00+08:00",
       "end": "2026-10-16T11:30:00+08:00",
@@ -1383,8 +1368,8 @@
       "confirmation": "官方已核验",
       "event_state": "scheduled",
       "is_financial": false,
-      "published_at": "2026-10-08T10:09:13+08:00",
-      "updated_at": "2026-10-08T10:09:13+08:00"
+      "published_at": "2026-10-10T17:02:12+08:00",
+      "updated_at": "2026-10-10T17:02:12+08:00"
     },
     {
       "id": "uibe-2108094215761235969",
@@ -1472,12 +1457,29 @@
       "updated_at": "2026-09-17T10:01:05+08:00"
     },
     {
+      "id": "uibe-2108741221462642690",
+      "title": "中国贸促会2027年度国考校园宣讲会",
+      "company": "中国国际贸易促进委员会",
+      "start": "2026-10-19T14:30:00+08:00",
+      "end": "2026-10-19T16:30:00+08:00",
+      "location": "求真楼319",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2108741221462642690",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-10-10T10:13:17+08:00",
+      "updated_at": "2026-10-10T10:13:17+08:00"
+    },
+    {
       "id": "uibe-2108464496287748097",
       "title": "讲座",
       "company": "招生就业处",
       "start": "2026-10-19T14:30:00+08:00",
       "end": "2026-10-19T16:30:00+08:00",
-      "location": "求真楼319",
+      "location": "求真楼一层招聘大厅",
       "format": "线下",
       "source_name": "对外经济贸易大学招生就业处",
       "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2108464496287748097",
@@ -1485,8 +1487,25 @@
       "confirmation": "官方已核验",
       "event_state": "scheduled",
       "is_financial": false,
-      "published_at": "2026-10-09T15:49:44+08:00",
-      "updated_at": "2026-10-09T15:49:44+08:00"
+      "published_at": "2026-10-10T08:57:45+08:00",
+      "updated_at": "2026-10-10T08:57:45+08:00"
+    },
+    {
+      "id": "uibe-2108033036464492545",
+      "title": "华为2027届“勇敢新世界”ICT 销售类招聘校园宣介会",
+      "company": "华为技术有限公司",
+      "start": "2026-10-19T18:30:00+08:00",
+      "end": "2026-10-19T20:30:00+08:00",
+      "location": "求真楼319",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2108033036464492545",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-10-10T08:33:20+08:00",
+      "updated_at": "2026-10-10T08:33:20+08:00"
     },
     {
       "id": "uibe-2099454302585155586",
