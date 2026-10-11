@@ -1,25 +1,19 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-10-11T03:54:49+08:00",
+    "last_updated": "2026-10-12T04:06:51+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
-    "source_status": "官方渠道同步正常",
+    "source_status": "官方渠道暂时无法访问，当前展示上次成功数据",
     "records": 98,
     "data_digest": "251a800cef4acd91",
     "change_summary": {
-      "date": "2026-10-11",
-      "added": 2,
-      "updated": 4,
-      "removed": 1,
+      "date": "2026-10-12",
+      "added": 0,
+      "updated": 0,
+      "removed": 0,
       "details": [
-        "新增：CVTE视源股份2027届商务职能类招聘宣讲会",
-        "新增：中国贸促会2027年度国考校园宣讲会",
-        "更新：顾家家居股份有限公司2027届校园招聘宣讲会",
-        "更新：海关系统2027年度国考考录宣讲会",
-        "更新：讲座",
-        "更新：华为2027届“勇敢新世界”ICT 销售类招聘校园宣介会",
-        "移出近期列表：河北华通线缆集团股份有限公司2026年校园宣讲会"
+        "同步暂时失败：RuntimeError；已保留上次成功数据"
       ]
     },
     "notes": [
