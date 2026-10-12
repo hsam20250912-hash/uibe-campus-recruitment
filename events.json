@@ -1,19 +1,21 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-10-12T04:06:51+08:00",
+    "last_updated": "2026-10-13T06:49:15+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
-    "source_status": "官方渠道暂时无法访问，当前展示上次成功数据",
-    "records": 98,
-    "data_digest": "251a800cef4acd91",
+    "source_status": "官方渠道同步正常",
+    "records": 101,
+    "data_digest": "e894082bd069c9f9",
     "change_summary": {
-      "date": "2026-10-12",
-      "added": 0,
+      "date": "2026-10-13",
+      "added": 3,
       "updated": 0,
       "removed": 0,
       "details": [
-        "同步暂时失败：RuntimeError；已保留上次成功数据"
+        "新增：双胞胎集团2027届校园招聘宣讲及面试",
+        "新增：石家庄市2026年进百校招才引智宣讲活动——对外经济贸易大学专场",
+        "新增：北汽福田汽车股份有限公司2027年校园宣讲会"
       ]
     },
     "notes": [
@@ -1417,6 +1419,23 @@
       "updated_at": "2026-09-02T14:18:17+08:00"
     },
     {
+      "id": "uibe-2109471730861936641",
+      "title": "双胞胎集团2027届校园招聘宣讲及面试",
+      "company": "双胞胎（集团）股份有限公司",
+      "start": "2026-10-16T18:30:00+08:00",
+      "end": "2026-10-16T20:30:00+08:00",
+      "location": "求真楼401A",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2109471730861936641",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-10-12T10:52:13+08:00",
+      "updated_at": "2026-10-12T10:52:13+08:00"
+    },
+    {
       "id": "uibe-2104490789953409025",
       "title": "国药器械北京公司2027届秋季校园招聘",
       "company": "国药集团北京医疗器械有限公司",
@@ -1604,6 +1623,23 @@
       "updated_at": "2026-09-23T08:20:47+08:00"
     },
     {
+      "id": "uibe-2108842895594295297",
+      "title": "石家庄市2026年进百校招才引智宣讲活动——对外经济贸易大学专场",
+      "company": "中国（河北）自由贸易试验区正定片区（综合保税区）工委组织部（人力资源和社会保障局）",
+      "start": "2026-10-22T14:30:00+08:00",
+      "end": "2026-10-22T16:30:00+08:00",
+      "location": "求真楼401A",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2108842895594295297",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-10-12T09:35:26+08:00",
+      "updated_at": "2026-10-12T09:35:26+08:00"
+    },
+    {
       "id": "uibe-2099398715218391042",
       "title": "国贸股份2027届秋季全球校园招聘宣讲会",
       "company": "厦门国贸集团股份有限公司",
@@ -1653,6 +1689,23 @@
       "is_financial": true,
       "published_at": "2026-10-08T14:46:33+08:00",
       "updated_at": "2026-10-08T14:46:33+08:00"
+    },
+    {
+      "id": "uibe-2109546755690401793",
+      "title": "北汽福田汽车股份有限公司2027年校园宣讲会",
+      "company": "北汽福田汽车股份有限公司",
+      "start": "2026-10-26T14:30:00+08:00",
+      "end": "2026-10-26T16:30:00+08:00",
+      "location": "求真楼319",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2109546755690401793",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-10-12T15:37:03+08:00",
+      "updated_at": "2026-10-12T15:37:03+08:00"
     },
     {
       "id": "uibe-2101594239258345474",
