@@ -1,19 +1,23 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-10-16T03:46:52+08:00",
+    "last_updated": "2026-10-17T03:27:53+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
     "source_status": "官方渠道同步正常",
-    "records": 103,
-    "data_digest": "163c5b65a10a8c7d",
+    "records": 106,
+    "data_digest": "ba33d64b06bffd30",
     "change_summary": {
-      "date": "2026-10-16",
-      "added": 1,
-      "updated": 0,
+      "date": "2026-10-17",
+      "added": 3,
+      "updated": 2,
       "removed": 0,
       "details": [
-        "新增：国家税务总局杭州市税务局2027年公务员招录宣讲会"
+        "新增：格林美集团2027届校园招聘宣讲会",
+        "新增：中国信达资产管理股份有限公司 2027年度校园招聘宣讲会",
+        "新增：中智管理咨询有限公司2027校园招聘",
+        "更新：中粮集团2027届校园招聘宣讲会",
+        "更新：致汇金服 X-MOTORS海外管培生宣讲会"
       ]
     },
     "notes": [
@@ -1556,8 +1560,8 @@
       "id": "uibe-2100840504596951042",
       "title": "中粮集团2027届校园招聘宣讲会",
       "company": "中粮集团有限公司",
-      "start": "2026-10-20T14:30:00+08:00",
-      "end": "2026-10-20T16:30:00+08:00",
+      "start": "2026-10-20T14:00:00+08:00",
+      "end": "2026-10-20T15:00:00+08:00",
       "location": "求真楼319",
       "format": "线下",
       "source_name": "对外经济贸易大学招生就业处",
@@ -1566,8 +1570,8 @@
       "confirmation": "官方已核验",
       "event_state": "scheduled",
       "is_financial": false,
-      "published_at": "2026-09-18T15:14:20+08:00",
-      "updated_at": "2026-09-18T15:14:20+08:00"
+      "published_at": "2026-10-16T18:24:02+08:00",
+      "updated_at": "2026-10-16T18:24:02+08:00"
     },
     {
       "id": "uibe-2097558786553200641",
@@ -1590,7 +1594,7 @@
       "id": "uibe-2103022445601558529",
       "title": "致汇金服 X-MOTORS海外管培生宣讲会",
       "company": "北京致汇金服互联网服务有限公司",
-      "start": "2026-10-20T18:30:00+08:00",
+      "start": "2026-10-20T19:00:00+08:00",
       "end": "2026-10-20T20:30:00+08:00",
       "location": "求真楼一层招聘大厅",
       "format": "线下",
@@ -1600,8 +1604,8 @@
       "confirmation": "官方已核验",
       "event_state": "scheduled",
       "is_financial": false,
-      "published_at": "2026-09-24T16:10:16+08:00",
-      "updated_at": "2026-09-24T16:10:16+08:00"
+      "published_at": "2026-10-16T15:49:50+08:00",
+      "updated_at": "2026-10-16T15:49:50+08:00"
     },
     {
       "id": "uibe-2102304916465831937",
@@ -1636,6 +1640,23 @@
       "is_financial": true,
       "published_at": "2026-09-23T08:20:47+08:00",
       "updated_at": "2026-09-23T08:20:47+08:00"
+    },
+    {
+      "id": "uibe-2111037748436602882",
+      "title": "格林美集团2027届校园招聘宣讲会",
+      "company": "格林美股份有限公司",
+      "start": "2026-10-22T09:30:00+08:00",
+      "end": "2026-10-22T11:30:00+08:00",
+      "location": "求真楼319",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2111037748436602882",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-10-16T18:27:06+08:00",
+      "updated_at": "2026-10-16T18:27:06+08:00"
     },
     {
       "id": "uibe-2108842895594295297",
@@ -1687,6 +1708,23 @@
       "is_financial": false,
       "published_at": "2026-09-30T09:24:19+08:00",
       "updated_at": "2026-09-30T09:24:19+08:00"
+    },
+    {
+      "id": "uibe-2110626719290429442",
+      "title": "中国信达资产管理股份有限公司 2027年度校园招聘宣讲会",
+      "company": "中国信达资产管理股份有限公司",
+      "start": "2026-10-23T14:30:00+08:00",
+      "end": "2026-10-23T16:30:00+08:00",
+      "location": "求真楼一层招聘大厅",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2110626719290429442",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": true,
+      "published_at": "2026-10-16T16:43:01+08:00",
+      "updated_at": "2026-10-16T16:43:01+08:00"
     },
     {
       "id": "uibe-2108041272110419969",
@@ -1755,6 +1793,23 @@
       "is_financial": false,
       "published_at": "2026-09-22T09:42:06+08:00",
       "updated_at": "2026-09-22T09:42:06+08:00"
+    },
+    {
+      "id": "uibe-2110283770320982018",
+      "title": "中智管理咨询有限公司2027校园招聘",
+      "company": "中智管理咨询有限公司",
+      "start": "2026-10-28T18:30:00+08:00",
+      "end": "2026-10-28T20:30:00+08:00",
+      "location": "求真楼401A",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2110283770320982018",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-10-16T16:37:31+08:00",
+      "updated_at": "2026-10-16T16:37:31+08:00"
     },
     {
       "id": "uibe-2103061100806344706",
