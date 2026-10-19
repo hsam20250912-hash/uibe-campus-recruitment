@@ -1,19 +1,20 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-10-19T02:32:02+08:00",
+    "last_updated": "2026-10-20T04:55:54+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
     "source_status": "官方渠道同步正常",
-    "records": 105,
-    "data_digest": "e69dfa0eec1e8033",
+    "records": 106,
+    "data_digest": "def9130b6f991143",
     "change_summary": {
-      "date": "2026-10-19",
-      "added": 0,
-      "updated": 0,
+      "date": "2026-10-20",
+      "added": 1,
+      "updated": 1,
       "removed": 0,
       "details": [
-        "今日暂未发现新增或改期信息"
+        "新增：朝晖股份2027届校园宣讲会",
+        "更新：“惠”就业课堂（第45期）——逐梦公考·职启未来【2027国考】公…"
       ]
     },
     "notes": [
@@ -1451,6 +1452,23 @@
       "updated_at": "2026-09-17T10:01:05+08:00"
     },
     {
+      "id": "uibe-2108464496287748097",
+      "title": "“惠”就业课堂（第45期）——逐梦公考·职启未来【2027国考】公告解读",
+      "company": "招生就业处",
+      "start": "2026-10-19T14:30:00+08:00",
+      "end": "2026-10-19T16:30:00+08:00",
+      "location": "求真楼一层招聘大厅",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2108464496287748097",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-10-19T09:25:05+08:00",
+      "updated_at": "2026-10-19T09:25:05+08:00"
+    },
+    {
       "id": "uibe-2108741221462642690",
       "title": "中国贸促会2027年度国考校园宣讲会",
       "company": "中国国际贸易促进委员会",
@@ -1466,23 +1484,6 @@
       "is_financial": false,
       "published_at": "2026-10-10T10:13:17+08:00",
       "updated_at": "2026-10-10T10:13:17+08:00"
-    },
-    {
-      "id": "uibe-2108464496287748097",
-      "title": "讲座",
-      "company": "招生就业处",
-      "start": "2026-10-19T14:30:00+08:00",
-      "end": "2026-10-19T16:30:00+08:00",
-      "location": "求真楼一层招聘大厅",
-      "format": "线下",
-      "source_name": "对外经济贸易大学招生就业处",
-      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2108464496287748097",
-      "source_type": "official",
-      "confirmation": "官方已核验",
-      "event_state": "scheduled",
-      "is_financial": false,
-      "published_at": "2026-10-10T08:57:45+08:00",
-      "updated_at": "2026-10-10T08:57:45+08:00"
     },
     {
       "id": "uibe-2108033036464492545",
@@ -1789,6 +1790,23 @@
       "is_financial": false,
       "published_at": "2026-10-16T16:37:31+08:00",
       "updated_at": "2026-10-16T16:37:31+08:00"
+    },
+    {
+      "id": "uibe-2111716103959941122",
+      "title": "朝晖股份2027届校园宣讲会",
+      "company": "浙江朝晖过滤技术股份有限公司",
+      "start": "2026-10-30T14:30:00+08:00",
+      "end": "2026-10-30T16:30:00+08:00",
+      "location": "求真楼401A",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2111716103959941122",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-10-19T09:15:20+08:00",
+      "updated_at": "2026-10-19T09:15:20+08:00"
     },
     {
       "id": "uibe-2103061100806344706",
