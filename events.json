@@ -1,19 +1,20 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-10-22T03:59:01+08:00",
+    "last_updated": "2026-10-23T03:51:31+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
     "source_status": "官方渠道同步正常",
     "records": 107,
-    "data_digest": "19d8fec2749ea649",
+    "data_digest": "11153d7661a955ce",
     "change_summary": {
-      "date": "2026-10-22",
-      "added": 1,
+      "date": "2026-10-23",
+      "added": 2,
       "updated": 0,
       "removed": 0,
       "details": [
-        "新增：泰康保险集团2027全球校园招聘-对外经济贸易大学专场招聘会"
+        "新增：三一集团2027届秋季校园招聘",
+        "新增：德硕管理咨询（上海）有限公司2027届校园招聘"
       ]
     },
     "notes": [
@@ -22,40 +23,6 @@
     ]
   },
   "events": [
-    {
-      "id": "uibe-2096776674585657346",
-      "title": "宜昌市人才对接交流活动",
-      "company": "宜昌市委组织部",
-      "start": "2026-09-07T15:00:00+08:00",
-      "end": "2026-09-07T16:00:00+08:00",
-      "location": "求真楼306",
-      "format": "线下",
-      "source_name": "对外经济贸易大学招生就业处",
-      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2096776674585657346",
-      "source_type": "official",
-      "confirmation": "官方已核验",
-      "event_state": "scheduled",
-      "is_financial": false,
-      "published_at": "2026-09-07T14:48:35+08:00",
-      "updated_at": "2026-09-07T14:48:35+08:00"
-    },
-    {
-      "id": "uibe-2095538220434505730",
-      "title": "雀巢中国2027校园招聘直播",
-      "company": "雀巢（中国）有限公司",
-      "start": "2026-09-07T19:00:00+08:00",
-      "end": "2026-09-07T21:00:00+08:00",
-      "location": "https://live.liepin.com/live?activityId=1874596797904906",
-      "format": "线上",
-      "source_name": "对外经济贸易大学招生就业处",
-      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2095538220434505730",
-      "source_type": "official",
-      "confirmation": "官方已核验",
-      "event_state": "scheduled",
-      "is_financial": false,
-      "published_at": "2026-09-04T08:21:30+08:00",
-      "updated_at": "2026-09-04T08:21:30+08:00"
-    },
     {
       "id": "uibe-2090341216930562049",
       "title": "招商银行总行、分行及子公司2027校园招聘宣讲会",
@@ -1840,6 +1807,40 @@
       "is_financial": false,
       "published_at": "2026-09-28T13:55:18+08:00",
       "updated_at": "2026-09-28T13:55:18+08:00"
+    },
+    {
+      "id": "uibe-2112433260347854849",
+      "title": "三一集团2027届秋季校园招聘",
+      "company": "三一集团有限公司",
+      "start": "2026-11-06T18:30:00+08:00",
+      "end": "2026-11-06T20:30:00+08:00",
+      "location": "求真楼一层招聘大厅",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2112433260347854849",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-10-22T15:23:26+08:00",
+      "updated_at": "2026-10-22T15:23:26+08:00"
+    },
+    {
+      "id": "uibe-2112797429232373761",
+      "title": "德硕管理咨询（上海）有限公司2027届校园招聘",
+      "company": "德硕管理咨询（上海）有限公司",
+      "start": "2026-11-13T14:30:00+08:00",
+      "end": "2026-11-13T16:30:00+08:00",
+      "location": "求真楼401A",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2112797429232373761",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-10-22T15:24:19+08:00",
+      "updated_at": "2026-10-22T15:24:19+08:00"
     }
   ]
 }
