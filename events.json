@@ -1,20 +1,20 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-10-23T03:51:31+08:00",
+    "last_updated": "2026-10-24T03:52:15+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
     "source_status": "官方渠道同步正常",
     "records": 107,
-    "data_digest": "11153d7661a955ce",
+    "data_digest": "646c118993aaf212",
     "change_summary": {
-      "date": "2026-10-23",
-      "added": 2,
-      "updated": 0,
+      "date": "2026-10-24",
+      "added": 1,
+      "updated": 1,
       "removed": 0,
       "details": [
-        "新增：三一集团2027届秋季校园招聘",
-        "新增：德硕管理咨询（上海）有限公司2027届校园招聘"
+        "新增：京东集团2027 TET管培生专场宣讲会",
+        "更新：泰康保险集团2027全球校园招聘-对外经济贸易大学专场招聘会（宣讲…"
       ]
     },
     "notes": [
@@ -23,23 +23,6 @@
     ]
   },
   "events": [
-    {
-      "id": "uibe-2090341216930562049",
-      "title": "招商银行总行、分行及子公司2027校园招聘宣讲会",
-      "company": "招商银行股份有限公司",
-      "start": "2026-09-08T18:30:00+08:00",
-      "end": "2026-09-08T19:30:00+08:00",
-      "location": "求真楼319",
-      "format": "线下",
-      "source_name": "对外经济贸易大学招生就业处",
-      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2090341216930562049",
-      "source_type": "official",
-      "confirmation": "官方已核验",
-      "event_state": "scheduled",
-      "is_financial": true,
-      "published_at": "2026-09-04T09:45:07+08:00",
-      "updated_at": "2026-09-04T09:45:07+08:00"
-    },
     {
       "id": "uibe-2094990933488615425",
       "title": "“梦想靠岸”招商银行南宁分行2027秋季校园招聘",
@@ -1725,10 +1708,10 @@
     },
     {
       "id": "uibe-2111027050428043266",
-      "title": "泰康保险集团2027全球校园招聘-对外经济贸易大学专场招聘会",
+      "title": "泰康保险集团2027全球校园招聘-对外经济贸易大学专场招聘会（宣讲+双选会）",
       "company": "泰康人寿保险有限责任公司",
       "start": "2026-10-27T14:00:00+08:00",
-      "end": "2026-10-27T16:00:00+08:00",
+      "end": "2026-10-27T17:00:00+08:00",
       "location": "求真楼319",
       "format": "线下",
       "source_name": "对外经济贸易大学招生就业处",
@@ -1737,8 +1720,8 @@
       "confirmation": "官方已核验",
       "event_state": "scheduled",
       "is_financial": true,
-      "published_at": "2026-10-21T10:49:27+08:00",
-      "updated_at": "2026-10-21T10:49:27+08:00"
+      "published_at": "2026-10-23T15:24:11+08:00",
+      "updated_at": "2026-10-23T15:24:11+08:00"
     },
     {
       "id": "uibe-2101594239258345474",
@@ -1824,6 +1807,23 @@
       "is_financial": false,
       "published_at": "2026-10-22T15:23:26+08:00",
       "updated_at": "2026-10-22T15:23:26+08:00"
+    },
+    {
+      "id": "uibe-2113468208005525505",
+      "title": "京东集团2027 TET管培生专场宣讲会",
+      "company": "北京京东世纪贸易有限公司",
+      "start": "2026-11-09T18:30:00+08:00",
+      "end": "2026-11-09T20:30:00+08:00",
+      "location": "求真楼319",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2113468208005525505",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": false,
+      "published_at": "2026-10-23T15:22:43+08:00",
+      "updated_at": "2026-10-23T15:22:43+08:00"
     },
     {
       "id": "uibe-2112797429232373761",
