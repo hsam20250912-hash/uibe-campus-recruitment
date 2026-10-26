@@ -1,19 +1,19 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-10-26T02:49:02+08:00",
+    "last_updated": "2026-10-27T04:57:07+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
     "source_status": "官方渠道同步正常",
-    "records": 100,
-    "data_digest": "0a2c2e78136ff548",
+    "records": 98,
+    "data_digest": "92b7bc05b004fed2",
     "change_summary": {
-      "date": "2026-10-26",
-      "added": 0,
+      "date": "2026-10-27",
+      "added": 1,
       "updated": 0,
       "removed": 0,
       "details": [
-        "今日暂未发现新增或改期信息"
+        "新增：中国光大银行北京分行2027年秋季校园招聘宣讲会"
       ]
     },
     "notes": [
@@ -22,57 +22,6 @@
     ]
   },
   "events": [
-    {
-      "id": "uibe-2095415761660067842",
-      "title": "“惠”就业课堂——大厂求职全链路拆解与阿里人才观",
-      "company": "招生就业处",
-      "start": "2026-09-11T10:30:00+08:00",
-      "end": "2026-09-11T12:00:00+08:00",
-      "location": "求真楼一层招聘大厅",
-      "format": "线下",
-      "source_name": "对外经济贸易大学招生就业处",
-      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2095415761660067842",
-      "source_type": "official",
-      "confirmation": "官方已核验",
-      "event_state": "scheduled",
-      "is_financial": false,
-      "published_at": "2026-09-04T15:50:59+08:00",
-      "updated_at": "2026-09-04T15:50:59+08:00"
-    },
-    {
-      "id": "uibe-2095460684237160449",
-      "title": "中国东方资产管理股份有限公司山西省分公司2027年度校园招聘宣讲会",
-      "company": "中国东方资产管理股份有限公司山西省分公司",
-      "start": "2026-09-11T14:30:00+08:00",
-      "end": "2026-09-11T16:30:00+08:00",
-      "location": "求真楼319",
-      "format": "线下",
-      "source_name": "对外经济贸易大学招生就业处",
-      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2095460684237160449",
-      "source_type": "official",
-      "confirmation": "官方已核验",
-      "event_state": "scheduled",
-      "is_financial": true,
-      "published_at": "2026-09-04T08:27:27+08:00",
-      "updated_at": "2026-09-04T08:27:27+08:00"
-    },
-    {
-      "id": "uibe-2096770263881400321",
-      "title": "中建三局国际工程公司（海外事业部）2027届校园招聘",
-      "company": "中建长江国际工程有限公司",
-      "start": "2026-09-11T18:30:00+08:00",
-      "end": "2026-09-11T20:30:00+08:00",
-      "location": "求真楼401A",
-      "format": "线下",
-      "source_name": "对外经济贸易大学招生就业处",
-      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2096770263881400321",
-      "source_type": "official",
-      "confirmation": "官方已核验",
-      "event_state": "scheduled",
-      "is_financial": false,
-      "published_at": "2026-09-09T08:53:42+08:00",
-      "updated_at": "2026-09-09T08:53:42+08:00"
-    },
     {
       "id": "uibe-2097255313584472066",
       "title": "“梦想靠岸”招商银行广州分行2027校园招聘",
@@ -1636,6 +1585,23 @@
       "is_financial": false,
       "published_at": "2026-10-16T16:37:31+08:00",
       "updated_at": "2026-10-16T16:37:31+08:00"
+    },
+    {
+      "id": "uibe-2113568040762224642",
+      "title": "中国光大银行北京分行2027年秋季校园招聘宣讲会",
+      "company": "中国光大银行股份有限公司北京分行",
+      "start": "2026-10-29T14:30:00+08:00",
+      "end": "2026-10-29T16:30:00+08:00",
+      "location": "求真楼401A",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2113568040762224642",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": true,
+      "published_at": "2026-10-26T08:47:42+08:00",
+      "updated_at": "2026-10-26T08:47:42+08:00"
     },
     {
       "id": "uibe-2111716103959941122",
