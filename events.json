@@ -1,19 +1,19 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-11-12T06:33:45+08:00",
+    "last_updated": "2026-11-13T06:09:04+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
-    "source_status": "官方渠道同步正常",
+    "source_status": "官方渠道暂时无法访问，当前展示上次成功数据",
     "records": 61,
     "data_digest": "952b6d892ed361f3",
     "change_summary": {
-      "date": "2026-11-12",
-      "added": 1,
+      "date": "2026-11-13",
+      "added": 0,
       "updated": 0,
       "removed": 0,
       "details": [
-        "新增：银为有你，联结世界 银联国际2027年度校园招聘"
+        "同步暂时失败：RuntimeError；已保留上次成功数据"
       ]
     },
     "notes": [
