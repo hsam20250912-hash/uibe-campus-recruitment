@@ -1,19 +1,20 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-11-13T06:09:04+08:00",
+    "last_updated": "2026-11-14T05:51:16+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
-    "source_status": "官方渠道暂时无法访问，当前展示上次成功数据",
+    "source_status": "官方渠道同步正常",
     "records": 61,
-    "data_digest": "952b6d892ed361f3",
+    "data_digest": "db5f9bb96b9d2181",
     "change_summary": {
-      "date": "2026-11-13",
-      "added": 0,
+      "date": "2026-11-14",
+      "added": 1,
       "updated": 0,
-      "removed": 0,
+      "removed": 1,
       "details": [
-        "同步暂时失败：RuntimeError；已保留上次成功数据"
+        "新增：2027厦门翔业集团校园招聘",
+        "移出近期列表：银为有你，联结世界 银联国际2027年度校园招聘"
       ]
     },
     "notes": [
@@ -1043,21 +1044,21 @@
       "updated_at": "2026-11-09T17:16:08+08:00"
     },
     {
-      "id": "uibe-2120080502537859073",
-      "title": "银为有你，联结世界 银联国际2027年度校园招聘",
-      "company": "银联国际有限公司",
-      "start": "2026-11-18T18:30:00+08:00",
-      "end": "2026-11-18T20:30:00+08:00",
-      "location": "求真楼一层招聘大厅",
+      "id": "uibe-2120406688887484418",
+      "title": "2027厦门翔业集团校园招聘",
+      "company": "厦门翔业集团有限公司",
+      "start": "2026-11-18T14:30:00+08:00",
+      "end": "2026-11-18T16:30:00+08:00",
+      "location": "求真楼401A",
       "format": "线下",
       "source_name": "对外经济贸易大学招生就业处",
-      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2120080502537859073",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2120406688887484418",
       "source_type": "official",
       "confirmation": "官方已核验",
       "event_state": "scheduled",
       "is_financial": false,
-      "published_at": "2026-11-11T14:17:04+08:00",
-      "updated_at": "2026-11-11T14:17:04+08:00"
+      "published_at": "2026-11-12T09:03:52+08:00",
+      "updated_at": "2026-11-12T09:03:52+08:00"
     }
   ]
 }
