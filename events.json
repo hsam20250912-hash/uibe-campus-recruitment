@@ -1,19 +1,19 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-11-19T06:53:35+08:00",
+    "last_updated": "2026-11-20T06:58:11+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
     "source_status": "官方渠道同步正常",
     "records": 64,
-    "data_digest": "b00c6f64b0ce49f4",
+    "data_digest": "c46a298c25fdf425",
     "change_summary": {
-      "date": "2026-11-19",
-      "added": 1,
-      "updated": 0,
+      "date": "2026-11-20",
+      "added": 0,
+      "updated": 1,
       "removed": 0,
       "details": [
-        "新增：向世界 挥一拳 三一集团2027届秋季校园招聘宣讲会（财务专场）"
+        "更新：三一集团2027届秋季校园招聘宣讲会（财务专场）"
       ]
     },
     "notes": [
@@ -1095,7 +1095,7 @@
     },
     {
       "id": "uibe-2122930196016381954",
-      "title": "向世界 挥一拳 三一集团2027届秋季校园招聘宣讲会（财务专场）",
+      "title": "三一集团2027届秋季校园招聘宣讲会（财务专场）",
       "company": "三一集团有限公司",
       "start": "2026-11-23T14:30:00+08:00",
       "end": "2026-11-23T16:30:00+08:00",
@@ -1107,8 +1107,8 @@
       "confirmation": "官方已核验",
       "event_state": "scheduled",
       "is_financial": false,
-      "published_at": "2026-11-18T19:25:00+08:00",
-      "updated_at": "2026-11-18T19:25:00+08:00"
+      "published_at": "2026-11-19T08:35:31+08:00",
+      "updated_at": "2026-11-19T08:35:31+08:00"
     }
   ]
 }
