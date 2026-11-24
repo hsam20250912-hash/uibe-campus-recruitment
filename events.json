@@ -1,19 +1,19 @@
 {
   "meta": {
     "title": "贸大秋招宣讲日历",
-    "last_updated": "2026-11-23T05:38:37+08:00",
+    "last_updated": "2026-11-24T10:49:09+08:00",
     "timezone": "Asia/Shanghai",
     "official_source": "https://career.uibe.edu.cn/front/channel.jspa?channelId=766&parentId=625",
     "source_status": "官方渠道同步正常",
-    "records": 63,
-    "data_digest": "9e14740733cc57f0",
+    "records": 62,
+    "data_digest": "a3712c7473c7266a",
     "change_summary": {
-      "date": "2026-11-23",
-      "added": 0,
+      "date": "2026-11-24",
+      "added": 1,
       "updated": 0,
       "removed": 0,
       "details": [
-        "今日暂未发现新增或改期信息"
+        "新增：富泽人寿保险股份有限公司 2027届校园招聘宣讲会"
       ]
     },
     "notes": [
@@ -22,40 +22,6 @@
     ]
   },
   "events": [
-    {
-      "id": "uibe-2100821474129539074",
-      "title": "中信建投证券2027届秋季联合宣讲会",
-      "company": "中信建投证券股份有限公司",
-      "start": "2026-10-09T18:30:00+08:00",
-      "end": "2026-10-09T20:30:00+08:00",
-      "location": "求真楼一层招聘大厅",
-      "format": "线下",
-      "source_name": "对外经济贸易大学招生就业处",
-      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2100821474129539074",
-      "source_type": "official",
-      "confirmation": "官方已核验",
-      "event_state": "scheduled",
-      "is_financial": true,
-      "published_at": "2026-09-30T14:18:16+08:00",
-      "updated_at": "2026-09-30T14:18:16+08:00"
-    },
-    {
-      "id": "uibe-2104812598837972994",
-      "title": "华润三九2027届空中宣讲会——AI短剧空宣重磅上线！",
-      "company": "华润三九医药股份有限公司",
-      "start": "2026-10-09T19:00:00+08:00",
-      "end": "2026-10-09T19:30:00+08:00",
-      "location": "https://video.51job.com/watch/8518807",
-      "format": "线上",
-      "source_name": "对外经济贸易大学招生就业处",
-      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2104812598837972994",
-      "source_type": "official",
-      "confirmation": "官方已核验",
-      "event_state": "scheduled",
-      "is_financial": false,
-      "published_at": "2026-09-29T14:03:39+08:00",
-      "updated_at": "2026-09-29T14:03:39+08:00"
-    },
     {
       "id": "uibe-2108074401722339329",
       "title": "山东省选调生招录政策宣讲",
@@ -1075,6 +1041,23 @@
       "is_financial": false,
       "published_at": "2026-11-19T08:35:31+08:00",
       "updated_at": "2026-11-19T08:35:31+08:00"
+    },
+    {
+      "id": "uibe-2124675885641613314",
+      "title": "富泽人寿保险股份有限公司 2027届校园招聘宣讲会",
+      "company": "富泽人寿保险股份有限公司",
+      "start": "2026-11-27T14:30:00+08:00",
+      "end": "2026-11-27T16:30:00+08:00",
+      "location": "求真楼一层招聘大厅",
+      "format": "线下",
+      "source_name": "对外经济贸易大学招生就业处",
+      "source_url": "https://career.uibe.edu.cn/front/zph.jspa?tid=2124675885641613314",
+      "source_type": "official",
+      "confirmation": "官方已核验",
+      "event_state": "scheduled",
+      "is_financial": true,
+      "published_at": "2026-11-23T13:53:38+08:00",
+      "updated_at": "2026-11-23T13:53:38+08:00"
     },
     {
       "id": "uibe-2123270061186727937",
